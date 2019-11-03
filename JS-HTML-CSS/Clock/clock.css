@@ -1,0 +1,152 @@
+:root{
+    --size: 200px;
+
+}
+
+#clock{
+    width: var(--size);
+    height: var(--size);
+    background-color: #ccc;
+    border: 3px solid #000;
+    border-radius: 50%;
+    box-shadow: 0 0 10px 0 black;
+    position: relative;
+    left: 15rem;
+}
+
+#sec-hand{
+    width: 1px;
+    height: 50%;
+    background-color: black;
+    transform-origin: 50% 80%;
+    position: absolute;
+    top: 10%;
+    left: 50%
+}
+
+#min-hand{
+    width: 3px;
+    height: 40%;
+    background-color: blue;
+    transform-origin: 50% 80%;
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    margin-left: -1px; 
+}
+
+#hr-hand{
+    width: 5px;
+    height: 25%;
+    background-color: red;
+    transform-origin: 50% 80%;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-left: -2px;
+}
+
+
+.num{
+    height: 100%;
+    position: absolute;
+    left: calc(50% - 0.5em)
+}
+
+.num div{
+    width: 1em;
+    line-height: 2em;
+    color: brown;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.numI{
+    transform: rotate(30deg);
+}
+.numI div{
+    transform: rotate(-30deg);
+
+}
+
+.numII{
+    transform: rotate(60deg);
+}
+.numII div{
+    transform: rotate(-60deg);
+
+}
+
+.numIII{
+    transform: rotate(90deg);
+}
+.numIII div{
+    transform: rotate(-90deg);
+
+}
+
+.numIV{
+    transform: rotate(120deg);
+}
+.numIV div{
+    transform: rotate(-120deg);
+
+}
+
+.numV{
+    transform: rotate(150deg);
+}
+.numV div{
+    transform: rotate(-150deg);
+
+}
+
+.numVI{
+    transform: rotate(180deg);
+}
+.numVI div{
+    transform: rotate(-180deg);
+
+}
+
+.numVII{
+    transform: rotate(210deg);
+}
+.numVII div{
+    transform: rotate(-210deg);
+
+}
+
+.numVIII{
+    transform: rotate(240deg);
+}
+.numVIII div{
+    transform: rotate(-240deg);
+
+}
+
+.numIX{
+    transform: rotate(270deg);
+}
+.numIX div{
+    transform: rotate(-270deg);
+
+}
+
+
+.numX{
+    transform: rotate(300deg);
+}
+.numX div{
+    transform: rotate(-300deg);
+
+}
+
+.numXI{
+    transform: rotate(330deg);
+}
+.numXI div{
+    transform: rotate(-330deg);
+
+}

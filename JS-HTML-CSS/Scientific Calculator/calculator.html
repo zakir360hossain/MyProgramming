@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Calculator </title>
+    <link rel="stylesheet" href="styling.css">
+    <script type="text/javascript" src="calculator.js"></script>
+
+</head>
+
+<body>
+        <table>
+            <tr>
+            <tr>
+                <td class="heading">
+                    Casio 64x
+                </td>
+            </tr>
+
+            <td>
+                <div id="screen">
+                    <input type="text" id="input" placeholder="0" size="20">
+                    <input type="text" id="answer" size="20" readonly="readonly" disabled>
+                    <input type="text" id="input2" size="1" disabled>
+
+                </div>
+
+
+            </td>
+            </tr>
+
+            <tr>
+                <td>
+
+                    <input type="button" value="2nd" class="button white" onclick="">
+                    <input type="button" value="CFL" class="button black" onclick="clearTopBox()">
+                    <input type="button" value="DEL" class="button red" onclick="deleteOneAtEach()">
+                    <input type="button" value="MOD" class="button black" onclick="input.value+='%'">
+                    <input type="button" value="◄" class="button white" onclick="">
+                    <input type="button" value="►" class="button white" onclick="">
+                    <br/>
+                    <input type="button" value="x⁻¹" class="button black" onclick="">
+                    <input type="button" value="sin" class="button black" onclick="input.value+='sin('">
+                    <input type="button" value="cos" class="button black" onclick="input.value+='cos('">
+                    <input type="button" value="tan" class="button black" onclick="input.value+='tan('">
+                    <input type="button" value="π" class="button black" onclick="input.value+='π'">
+                    <input type="button" value="^" class="button black" onclick="input.value+='^'">
+                    <br/>
+                    <input type="button" value="x²" class="button black" onclick=squaring()>
+                    <input type="button" value="," class="button black" onclick="input.value+=','">
+                    <input type="button" value="(" class="button black" onclick="input.value+='('">
+                    <input type="button" value=")" class="button black" onclick="input.value+=')'">
+                    <input type="button" value="e" class="button black" onclick="input.value+='e'">
+                    <input type="button" value="CA" class="button black" onclick="clearScreen()">
+                    <br/>
+                    <input type="button" value="LOG" class="button black" onclick="input.value+='log('">
+                    <input type="button" value="7" class="button silver" onclick="input.value+='7'">
+                    <input type="button" value="8" class="button silver" onclick="input.value+='8'">
+                    <input type="button" value="9" class="button silver" onclick="input.value+='9'">
+                    <input type="button" value="x" class="button silver" onclick="input.value+='*'">
+                    <input type="button" value="ABS" class="button black"
+                    onclick="input.value=Math.abs(input.value)">
+                    <br/>
+                    <input type="button" value="ln" class="button black" onclick="input.value+='ln('">
+                    <input type="button" value="4" class="button silver" onclick="input.value+='4'">
+                    <input type="button" value="5" class="button silver" onclick="input.value+='5'">
+                    <input type="button" value="6" class="button silver" onclick="input.value+='6'">
+                    <input type="button" value="-" class="button silver" onclick="input.value+='-'">
+                    <input type="button" value="&radic;" class="button black"
+                    onclick="squareRoot()">
+                    <br/>
+                    <input type="button" value="off" class="button black" onclick="chBackcolor();">
+                    <input type="button" value="1" class="button silver" onclick="input.value+='1'">
+                    <input type="button" value="2" class="button silver" onclick="input.value+='2'">
+                    <input type="button" value="3" class="button silver" onclick="input.value+='3'">
+                    <input type="button" value="+" class="button silver" onclick="input.value+='+'">
+                    <br/>
+                    <input type="button" value="on" id="bt" class="button black" onclick="">
+                    <input type="button" value="0" id="bt" class="button silver" onclick="input.value+='0'">
+                    <input type="button" value="." id="bt" class="button silver" onclick="input.value+='.'">
+                    <input type="button" value="(-)" id="bt" class="button black" onclick="input.value+='-'">
+                    <input type="button" value="/" id="bt" class="button silver" onclick="input.value+='/'">
+                    <input type="button" value="Enter" id="eb" class="button silver" onclick="compute()">
+                   
+                
+
+
+
+
+
+                    
+             
+             
+
+
+                  
+                   
+                    
+
+                    <!-- <input type="button" value="" class="button silver" onclick="backSpace()">
+                    <input type="button" value="" class="button silver" onclick="forwardSpace()"> -->
+
+
+
+
+                </td>
+            </tr>
+        </table>
+
+</body>
+
+</html>
