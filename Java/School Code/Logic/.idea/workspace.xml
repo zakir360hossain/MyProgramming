@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfab6e8a-cea3-4b81-8978-b3846069222c" name="Default Changelist" comment="" />
+    <list default="true" id="dfab6e8a-cea3-4b81-8978-b3846069222c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Objects/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Objects/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Objects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/Flag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/Glass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/META-INF/FirstObject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/TestBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/TestCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/TestFlag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/TestGlass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/TestRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Objects/out/production/FirstObject/tester.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +30,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1R4lKNIDD94F3mPWJhQnLg4Fycq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
@@ -102,5 +121,16 @@
       <updated>1568934183771</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

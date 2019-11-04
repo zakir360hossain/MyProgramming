@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9c89468-b414-4e28-a578-0e6bde63db98" name="Default Changelist" comment="" />
+    <list default="true" id="c9c89468-b414-4e28-a578-0e6bde63db98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/Flag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/Glass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/META-INF/FirstObject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/TestBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/TestCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/TestFlag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/TestGlass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/TestRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstObject/tester.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,5 +122,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
 </project>
