@@ -1,4 +1,4 @@
-# When a subclass changes the functionality of a method that is in the parent class.
+# When a subclass changes the functionality of a method that is in the parent classes.
 
 class A:
     def person(self):

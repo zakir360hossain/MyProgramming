@@ -1,5 +1,5 @@
 class Planets:
-    """This class is about planets and their characteristics"""
+    """This classes is about planets and their characteristics"""
     pass
 
 

@@ -1,4 +1,4 @@
-# When more than one class inherits from a class, it is hierarchical Python inheritance.
+# When more than one classes inherits from a classes, it is hierarchical Python inheritance.
 
 class A:
     pass

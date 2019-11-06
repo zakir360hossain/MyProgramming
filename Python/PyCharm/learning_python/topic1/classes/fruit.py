@@ -6,7 +6,7 @@ class Fruits:
         self.price = f"${price}"
 
 
-# help(Fruits) == This will show the document that describes the class
+# help(Fruits) == This will show the document that describes the classes
 
 
 orange = Fruits("Orange", 12)  # "self" gets switched to the object (orange)

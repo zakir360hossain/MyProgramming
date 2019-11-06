@@ -1,4 +1,4 @@
-# Checks if the second class is under the first class
+# Checks if the second classes is under the first classes
 class field:
     pass
 

@@ -1,4 +1,4 @@
-# A single Python inheritance is when a single class inherits from a class.
+# A single Python inheritance is when a single classes inherits from a classes.
 
 # Example 1
 

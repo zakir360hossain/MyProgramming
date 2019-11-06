@@ -1,4 +1,4 @@
-# When one class inherits from another, which in turn inherits from another,
+# When one classes inherits from another, which in turn inherits from another,
 # it is multilevel python inheritance.
 
 class A:

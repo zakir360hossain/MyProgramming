@@ -1,5 +1,5 @@
 # When in all the parent classes, methods or variable have same name, which one get printed when
-# that method is called by the child class.
+# that method is called by the child classes.
 class Color:
     x = "orange"
 

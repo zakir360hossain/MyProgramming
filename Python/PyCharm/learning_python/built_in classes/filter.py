@@ -1,6 +1,7 @@
-# Function filtering names
+name_list = ['Zack', 'Jack', 'Nathan', 'Tim', 'Shaker']
+
+
 def names(name):
-    name_list = ['Zack', 'Jack', 'Nathan', 'Tim', 'Shaker']
     if name in name_list:
         return True
     else:
@@ -8,7 +9,19 @@ def names(name):
 
 
 name_list2 = ['Jack', 'Zack', 'Monica', 'Soondar', 'shaker']
-filtered_name = filter(names, name_list2)
-print("Filtered names:")
-for s in filtered_name:
-    print(s)  # => Zack and Jack
+filtered_name = list(filter(names, name_list2))
+print(filtered_name)
+
+nums = [2, 34, 564, 23, 64, 8, 3]
+
+
+def iseven(n):
+    return n % 2 == 0
+
+
+even_num = list(filter(iseven, nums))
+print(even_num)
+
+# with Lambda function (for numbers)
+even_num = list(filter(lambda n: n % 2 == 0, nums))
+print(even_num)

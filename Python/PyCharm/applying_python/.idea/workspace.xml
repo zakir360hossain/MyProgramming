@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac5ac08e-efe8-4c0b-a67f-dda3e9aab73d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Logic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Logic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Objects/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Objects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/Flag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/Glass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/META-INF/FirstObject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/TestBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/TestCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/TestFlag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/TestGlass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/TestRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Objects/out/production/FirstObject/tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning_python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/response_bias.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in classes/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/built_in classes/filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/functions/lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/functions/lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/tester.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +29,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.randomGenerator">
     <configuration name="Fibanocci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="applying_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,6 +86,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="randomGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="applying_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/response_bias.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="applying_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.randomGenerator" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.RMS" />
         <item itemvalue="Python.Fibanocci" />

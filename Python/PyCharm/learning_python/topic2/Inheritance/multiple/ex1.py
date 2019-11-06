@@ -1,4 +1,4 @@
-# Multiple Python inheritance are when a class inherits from multiple base classes.
+# Multiple Python inheritance are when a classes inherits from multiple base classes.
 
 class Color:
     pass
@@ -14,7 +14,7 @@ class Orange(Color, Fruit):
 
 print(issubclass(Orange, Color) and issubclass(Orange, Fruit))
 
-# Method Resolution Order (MRO). If an attribute is not found in the current class, orange in
+# Method Resolution Order (MRO). If an attribute is not found in the current classes, orange in
 # this case, it will be searched in parent classes with an order, top-to-bottom, depth-first.
-# The order is called linearization of class Child. And the set of rules applied are called MRO.
+# The order is called linearization of classes Child. And the set of rules applied are called MRO.
 print(Orange.mro())

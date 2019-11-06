@@ -2,8 +2,8 @@
 # Specialization => when going from general to specific. i.e Fruit => apple
 # The use of arrows to indicate Generalization and Specialization is UML (Unified Modeling Language) convention.
 
-# In this case, Fruit can be called as Supper, Parent, or Base class; all the same.
-# And apple is the Sub, Child, or Derived class; all mean the same.
+# In this case, Fruit can be called as Supper, Parent, or Base classes; all the same.
+# And apple is the Sub, Child, or Derived classes; all mean the same.
 
 # Types of Inheritance:
 # 1. Single

@@ -1,4 +1,4 @@
-# It allows us to call a method from the parent class.
+# It allows us to call a method from the parent classes.
 
 class Vehicle:
     def start(self):
