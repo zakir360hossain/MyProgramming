@@ -7,7 +7,7 @@ def outer():
     return inner  # Function is an object in python. This return the object's memory location not the value.
 
 
-# When outer function is called, it will output the memory location of inner function, not the value, because it is
+# When 'outer' function is called, it will output the memory location of inner function, not the value, because it is
 # not returning inner() but simply inner
 
 a = outer()

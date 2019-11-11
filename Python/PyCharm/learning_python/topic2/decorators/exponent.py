@@ -1,10 +1,8 @@
 import math
 import time
 
-"""
-Using decorators to see the time each function takes to complete the execution
-"""
 
+# Using decorators to see the time each function takes to complete the execution.
 
 def timing(func):
     def wrapper(*args, **kwargs):
@@ -34,7 +32,7 @@ def cube(bases):
     print(result)
 
 
-base_array = range(1, 100000)
+mantissa_array = range(1, 100000)
 
-square(base_array)
-cube(base_array)
+square(mantissa_array)
+cube(mantissa_array)

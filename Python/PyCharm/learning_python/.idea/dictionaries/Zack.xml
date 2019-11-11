@@ -2,6 +2,7 @@
   <dictionary name="Zack">
     <words>
       <w>fromtimestamp</w>
+      <w>lemmatizer</w>
       <w>linearization</w>
     </words>
   </dictionary>

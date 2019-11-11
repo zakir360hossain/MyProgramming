@@ -1,9 +1,6 @@
-import sys
-import argparse
-import datetime
+import random
+import copy
 
-print(type(argparse))
-print(type(datetime))
+print(type(copy))
 
-a = sys.builtin_module_names
-print(a)
+print(dir(random))

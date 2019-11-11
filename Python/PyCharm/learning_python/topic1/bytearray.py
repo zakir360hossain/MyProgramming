@@ -1,0 +1,1 @@
+print(bytearray(3))
