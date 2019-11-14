@@ -6,6 +6,8 @@ import java.util.*;
  * 			Ask the user to guess the number the program generates.
  *
  */
+
+
 public class guess_game {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

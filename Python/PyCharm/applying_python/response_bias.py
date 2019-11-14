@@ -9,13 +9,13 @@ random.shuffle(freshmen)
 random.shuffle(sophomore)
 random.shuffle(junior)
 random.shuffle(senior)
-print("Iterables shuffled:")
+print("strata shuffled:")
 print(freshmen)
 print(sophomore)
 print(junior)
 print(senior, "\n")
 
-print("Sample selected from each iterables:", "\n")
+print("Sample selected from each strata:", "\n")
 freshmen_sample = random.sample(freshmen, 1)
 sophomore_sample = random.sample(sophomore, 1)
 junior_sample = random.sample(junior, 1)
@@ -25,5 +25,7 @@ print(freshmen_sample)
 print(sophomore_sample)
 print(junior_sample)
 print(senior_sample)
+
+
 
 

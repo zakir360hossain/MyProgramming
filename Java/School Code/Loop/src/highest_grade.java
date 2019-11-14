@@ -34,6 +34,7 @@ public class highest_grade {
                  lowest_grade = grades;
              }
          }
+         // Input validation
          else if ((grades<45 || grades>100) && grades !=-1 ) {
              System.out.println("The grade you entered is invalid, it cannot be less than 45 or greater than 100, " +
                      "so it's disregarded. Continue entering the next grade.\n");
