@@ -6,7 +6,7 @@ import java.util.*;
 
 /**
  * @author Zakir Hossain
- * Date
+ * November 18, 2019
  * Program Description
  */
 public class asterisk {
@@ -32,44 +32,67 @@ public class asterisk {
             if (figType.equalsIgnoreCase("S")) {
 
                     for (int i = 1; i <= height; i++) {
-                        for (int j = 1; j <= height; j++) {
+                        for (int j = 1; j <= height*number-(number-1); j++) {
                             System.out.print(" *");
                         }
                         System.out.println(" ");
                     }
-                    System.out.print(" ");
             }
 
 
             if (figType.equalsIgnoreCase("H")){
-                for (int i=1; i<=height; i++){
-                    for (int j = height; j>=i; j--){
-                        System.out.print(" *");
+                for (int i = 1; i <= height; i++) {
+                    for (int j = 1; j <= height*number-(number-1); j++) {
+                        if(i>j){
+                            System.out.print("  ");
+                        }
+                        else{
+                            System.out.print(" *");
+                        }
+                        
+
                     }
                     System.out.println(" ");
                 }
+
             }
 
 
             if (figType.equalsIgnoreCase("L")){
-                for (int i=1; i<=height; i++){
-                    for (int j = 1; j<=i; j++){
-                        System.out.print(" *");
+                for (int i = 1; i <= height; i++) {
+                    for (int j = 1; j <= height*number-(number-1); j++) {
+                        if (j>i){
+                            System.out.print("  ");
+
+                        }
+                        else {
+                            System.out.print(" *");
+                        }
                     }
                     System.out.println(" ");
                 }
             }
+            if (figType.equalsIgnoreCase("T")){
+                for (int i = 1;  i<=(2*height) + height-2; i++){
+                    for (int j=1; j<=(2*height) + height-2; j++){
+                        
+                    }
+
+                }
+            }
 
 
-        } else if (figType.equalsIgnoreCase("B")) {
-            System.out.println("Enter the height please");
+        }
+        // Done
+        else if (figType.equalsIgnoreCase("B")) {
+            System.out.println("Enter the length please");
             int length = input.nextInt();
             System.out.println("Enter the width");
             width = input.nextInt();
             System.out.println("Enter the number");
             number = input.nextInt();
             for (int i=1; i<=width; i++){
-                for (int j = 1; j<=length; j++){
+                for (int j = 1; j<=length*number-(number-1); j++){
                     System.out.print(" *");
                 }
                 System.out.println(" ");
