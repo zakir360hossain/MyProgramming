@@ -75,9 +75,27 @@ public class asterisk {
             if (figType.equalsIgnoreCase("T")){
                 for (int i = 1;  i<=(2*height) + height-2; i++){
                     for (int j=1; j<=(2*height) + height-2; j++){
-                        
-                    }
+                        if (i==height+1 || i==2*height+1){
+                            System.out.print(" *");
+                        }
+                        if (i<height && j>=height){
+                            System.out.print(" *");
+                        }
+                        if (i<height && j>height+3){
+                            System.out.print(" ");
+                        }
+                        if (i>2*height+1 && j<height){
+                            System.out.print(" ");
+                        }
+                        if (i>2*height+1 && (j>=height && j<=2*height)){
+                            System.out.print(" *");
+                        }
+                        if (i>2*height+1 && j>2*height){
+                            System.out.print(" ");
+                        }
 
+                    }
+                    System.out.println(" ");
                 }
             }
 

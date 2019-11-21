@@ -15,7 +15,7 @@ arr1.append(14)  # Add to the end
 arr1.buffer_info()  # returns tuple that holds memory location and the length of elements
 arr1.count(3)  # How many 3s are there in the array?
 arr1.extend([2, 3, 4])  # attaches the iterable, param of extend (2, 3, 4), to the end of the array.
-arr1.fromlist([23, 1])  # Similar to exetend() but this take the iterable from a list
+arr1.fromlist([23, 1])  # Similar to extend() but this take the iterable from a list
 arr1.insert(2, 7)  # insert 7 at index 2.
 arr1.index(7)  # 2, line 19 shows
 arr1.pop(2)  # Drops item at the given index. 7 will be popped.
