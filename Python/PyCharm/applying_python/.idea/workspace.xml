@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13f05ce2-8ec3-4dc6-9750-c03265747dea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/golfer_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules/unittest/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Methods/out/production/Methods/carpenterWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/out/production/Methods/carpenterWork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/carpenterWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/carpenterWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/golfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/Golfer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaScript/Clock/clock.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/Clock/clock.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaScript/Clock/clock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/Clock/clock.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/applying_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/applying_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="13f05ce2-8ec3-4dc6-9750-c03265747dea" name="Default Changelist" comment="changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Age_Accumulator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibanocci with LRU.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibanocci.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RBP/sample.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RBP/simulation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RMS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scientific Calculalor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning_python/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/tester.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/closure/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/topic2/closure/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/iterators/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/topic2/iterators/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../R/learning_R/basics/hw.r" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/learning_R/basics/hw.r" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +16,7 @@
   <component name="ProjectId" id="1U08uT6Zzq0wLb1NTZJMuX3qh7R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="file.status.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,6 +30,34 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="simulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="applying_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bias project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bias project/simulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.simulation" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -63,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1574482374463</updated>
     </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1574483879410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574483879410</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,10 +84,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>
