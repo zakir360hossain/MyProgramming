@@ -1,3 +1,5 @@
+from numpy import median
+
 def outer():
     msg = "hello"
 

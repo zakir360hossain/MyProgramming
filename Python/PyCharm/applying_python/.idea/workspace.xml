@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac5ac08e-efe8-4c0b-a67f-dda3e9aab73d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/Methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/carpenterWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/golfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/statWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Loop/out/production/Loop/asterisk.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Loop/out/production/Loop/asterisk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Loop/src/asterisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Loop/src/asterisk.java" afterDir="false" />
+    <list default="true" id="13f05ce2-8ec3-4dc6-9750-c03265747dea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/golfer_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules/unittest/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Methods/out/production/Methods/carpenterWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/out/production/Methods/carpenterWork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/carpenterWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/carpenterWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/golfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/Methods/src/Golfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/Clock/clock.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/Clock/clock.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/Clock/clock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/Clock/clock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/applying_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/applying_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RBP/simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/RBP/simulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Age_Accumulator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibanocci with LRU.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibanocci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RBP/sample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RBP/simulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RMS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scientific Calculalor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/closure/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/topic2/closure/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/iterators/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/topic2/iterators/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/learning_R/basics/hw.r" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/learning_R/basics/hw.r" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,28 +32,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1Pr06RkTbKtLy3QbiguSL878A21" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1U08uT6Zzq0wLb1NTZJMuX3qh7R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/RBP" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,132 +52,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.simulation">
-    <configuration name="Fibanocci" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="applying_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fibanocci.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="RMS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="applying_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RMS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="randomGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="applying_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RBP/sample.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="simulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="applying_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RBP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RBP/simulation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="applying_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.simulation" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.randomGenerator" />
-        <item itemvalue="Python.RMS" />
-        <item itemvalue="Python.Fibanocci" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ac5ac08e-efe8-4c0b-a67f-dda3e9aab73d" name="Default Changelist" comment="" />
-      <created>1566616731225</created>
+      <changelist id="13f05ce2-8ec3-4dc6-9750-c03265747dea" name="Default Changelist" comment="" />
+      <created>1574482374463</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566616731225</updated>
+      <updated>1574482374463</updated>
     </task>
     <servers />
   </component>
@@ -191,9 +70,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
