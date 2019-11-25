@@ -1,8 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9602517-985f-4056-9914-0397858de8f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tester.py" afterDir="false" />
+    <list default="true" id="5331fdc4-d4d8-4315-b88c-546159835d7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../applying_python/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/Multithread 4.22.56 PM/custom_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/Multithread 4.22.56 PM/lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/Multithread 4.22.56 PM/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/Multithread 4.22.56 PM/thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in classes 4.22.57 PM/classmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in classes 4.22.57 PM/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in classes 4.22.57 PM/enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in classes 4.22.57 PM/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in classes 4.22.57 PM/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in classes 4.22.57 PM/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in classes 4.22.57 PM/zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in functions 4.22.57 PM/callable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in functions 4.22.57 PM/delattr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in functions 4.22.57 PM/divmod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in functions 4.22.57 PM/exec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in functions 4.22.57 PM/getattr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in functions 4.22.57 PM/hasattr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in functions 4.22.57 PM/isinstance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in functions 4.22.57 PM/issubclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in functions 4.22.57 PM/iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in functions 4.22.57 PM/sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules 4.22.57 PM/Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules 4.22.57 PM/OS/os_mod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules 4.22.57 PM/collections/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules 4.22.57 PM/collections/defaultdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules 4.22.57 PM/collections/namedtuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules 4.22.57 PM/collections/ordereddict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules 4.22.57 PM/functools/all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules 4.22.57 PM/functools/reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules 4.22.57 PM/unittest/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/data science 4.22.57 PM/lemmatization/simpleEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/data science 4.22.57 PM/stemming/entire_sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/data science 4.22.57 PM/stemming/simpleEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/formatting 4.22.57 PM/% operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/formatting 4.22.57 PM/f-format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/formatting 4.22.57 PM/formatfunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/formatting 4.22.57 PM/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/functions 4.22.56 PM/Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/functions 4.22.56 PM/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/functions 4.22.56 PM/nested.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/functions 4.22.56 PM/user_defined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/module 4.22.56 PM/arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/module 4.22.56 PM/use_arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/networking 4.22.56 PM/tcp/tcpClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/networking 4.22.56 PM/tcp/tcpServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/networking 4.22.56 PM/udp/udpClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/networking 4.22.56 PM/udp/udpServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/package 4.22.56 PM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/package 4.22.56 PM/module/class_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/package 4.22.56 PM/module/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/package 4.22.56 PM/module/factorial_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/regular expression 4.22.56 PM/regex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/regular expression 4.22.56 PM/regex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/tester 4.19.18 PM 4.22.56 PM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/argumentparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/bytearray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/classes/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/classes/fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/classes/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/classes/planet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/classes/self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/comparison_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/date_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/functions_argument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/list_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/method/non-parameterized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/method/parameterized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/random_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/switch_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/ternary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1 4.22.56 PM/variable_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/complication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/hierarchical/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/hybrid/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/mro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/multilevel/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/multiple/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/single/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/Inheritance/super_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/closure/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/decorators/divide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/decorators/exponent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/decorators/simpleEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/generators/even_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/generators/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/generators/yielding_to_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/iterators/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2 4.22.56 PM/iterators/own_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluator 4.23.21 PM.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JavaScript/Scientific Calculator/calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/Scientific Calculator/calculator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JavaScript/interactor-functions/.firebaserc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JavaScript/interactor-functions/.gitignore" beforeDir="false" />
@@ -31,13 +125,106 @@
       <change beforePath="$PROJECT_DIR$/../SchoolWorkEasy/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SchoolWorkEasy/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SchoolWorkEasy/evaluator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applying_python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applying_python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applying_python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applying_python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applying_python/test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_python/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_python/.idea/dictionaries/Zack.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_python/.idea/learning_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/.idea/learning_python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/Multithread/custom_thread.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/Multithread/lock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/Multithread/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/Multithread/thread.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in classes/classmethod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in classes/dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in classes/enumerate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in classes/filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in classes/map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in classes/range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in classes/zip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in functions/callable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in functions/delattr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in functions/divmod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in functions/exec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in functions/getattr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in functions/hasattr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in functions/isinstance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in functions/issubclass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in functions/iter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in functions/sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in modules/Array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in modules/OS/os_mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in modules/collections/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in modules/collections/defaultdict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in modules/collections/namedtuple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in modules/collections/ordereddict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in modules/functools/all.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in modules/functools/reduce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in modules/unittest/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/data science/lemmatization/simpleEx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/data science/stemming/entire_sentence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/data science/stemming/simpleEx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/formatting/% operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/formatting/f-format.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/formatting/formatfunc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/formatting/template.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/functions/Recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/functions/lambda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/functions/nested.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/functions/user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/module/arithmetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/module/use_arithmetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/networking/tcp/tcpClient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/networking/tcp/tcpServer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/networking/udp/udpClient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/networking/udp/udpServer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/package/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/package/module/class_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/package/module/factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/package/module/factorial_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/regular expression/regex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/regular expression/regex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/tester.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/argumentparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/bytearray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/classes/employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/classes/fruit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/classes/init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/classes/planet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/classes/self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/comparison_operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/date_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/functions_argument.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/list_comprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/method/non-parameterized.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/method/parameterized.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/property.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/random_generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/switch_case.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/ternary_operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/variable_scope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/complication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/hierarchical/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/hybrid/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/mro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/multilevel/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/multiple/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/overloading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/overriding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/simple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/single/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/Inheritance/super_func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/closure/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/decorators/divide.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/decorators/exponent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/decorators/simpleEx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/generators/even_odd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/generators/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/generators/yielding_to_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/iterators/ex1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/iterators/own_object.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_python/venv/bin/activate" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_python/venv/bin/activate.csh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_python/venv/bin/activate.fish" beforeDir="false" />
@@ -374,10 +561,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1U4otBSslRIaXRiZfvhzouZ6RzM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1U4z51ywXhanaLmK8i1SEKysjiC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -391,66 +580,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sample">
-    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="applying_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bias project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bias project/sample.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="simulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="applying_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bias project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bias project/simulation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.sample" />
-        <item itemvalue="Python.simulation" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e9602517-985f-4056-9914-0397858de8f1" name="Default Changelist" comment="" />
-      <created>1574625440940</created>
+      <changelist id="5331fdc4-d4d8-4315-b88c-546159835d7f" name="Default Changelist" comment="" />
+      <created>1574630468516</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574625440940</updated>
+      <updated>1574630468516</updated>
     </task>
     <servers />
   </component>
@@ -459,12 +598,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

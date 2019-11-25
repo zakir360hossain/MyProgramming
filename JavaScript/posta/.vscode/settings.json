@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/opt/anaconda3/bin/python",
+    "java.dependency.syncWithFolderExplorer": false,
+    "java.dependency.packagePresentation": "hierarchical"
+}

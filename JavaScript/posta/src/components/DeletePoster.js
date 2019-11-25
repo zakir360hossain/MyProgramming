@@ -77,7 +77,6 @@ DeletePoster.propTypes = {
   posterId: PropTypes.string.isRequired
 };
 
-export default connect(
-  null,
-  { deletePoster }
-)(withStyles(styles)(DeletePoster));
+export default connect(null, { deletePoster })(
+  withStyles(styles)(DeletePoster)
+);

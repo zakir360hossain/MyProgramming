@@ -157,7 +157,6 @@ const mapStateToProps = state => ({
   UI: state.UI
 });
 
-export default connect(
-  mapStateToProps,
-  { signupUser }
-)(withStyles(styles)(signup));
+export default connect(mapStateToProps, { signupUser })(
+  withStyles(styles)(signup)
+);

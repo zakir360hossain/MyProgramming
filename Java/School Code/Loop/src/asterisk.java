@@ -7,7 +7,7 @@ import java.util.*;
 /**
  * @author Zakir Hossain
  * November 18, 2019
- * Program Description
+ *   This program draws certain types of figure using asterisks and nested loops with concept of pattern design.
  */
 public class asterisk {
     public static void main(String[] args) {
@@ -20,6 +20,10 @@ public class asterisk {
         System.out.println("What is the figure type you are trying to draw?");
         figType = input.nextLine();
 
+
+        // Note:
+        // only fig S and B iterates to draw multiple figures
+        // The rest of the figures only draw one.
         if (figType.equalsIgnoreCase("S") || figType.equalsIgnoreCase("H") ||
                 figType.equalsIgnoreCase("L") || figType.equalsIgnoreCase("T")) {
 
@@ -73,28 +77,51 @@ public class asterisk {
                 }
             }
             if (figType.equalsIgnoreCase("T")){
-                for (int i = 1;  i<=(2*height) + height-2; i++){
-                    for (int j=1; j<=(2*height) + height-2; j++){
-                        if (i==height+1 || i==2*height+1){
+                for (int i = 1;  i<=3*height - 2; i++ ){
+                    if (i<height){
+                        for (int j=1; j<=7; j++){
+                            if (j<=2){
+                                System.out.print("  ");
+                            }
+                            else if (j>2 && j<=5){
+                                System.out.print(" *");
+                            }
+                        }
+                    }
+                    if (i==height){
+                        for (int j=1; j<=7; j++){
                             System.out.print(" *");
                         }
-                        if (i<height && j>=height){
+                    }
+                    if(i>height && i<2*height-1){
+                        for (int j=1; j<=7; j++){
+                            if (j<=2){
+                                System.out.print("  ");
+                            }
+                            else if (j>2 && j<=5){
+                                System.out.print(" *");
+                            }
+                        }
+                    }
+                   if (i==2*height-1){
+                        for (int j=1; j<=7; j++){
                             System.out.print(" *");
                         }
-                        if (i<height && j>height+3){
-                            System.out.print(" ");
-                        }
-                        if (i>2*height+1 && j<height){
-                            System.out.print(" ");
-                        }
-                        if (i>2*height+1 && (j>=height && j<=2*height)){
-                            System.out.print(" *");
-                        }
-                        if (i>2*height+1 && j>2*height){
-                            System.out.print(" ");
+                    }
+                   if (i>2*height-1){
+                        for (int j=1; j<=7; j++){
+                            if (j<=2){
+                                System.out.print("  ");
+                            }
+                            else if (j>2 && j<=5){
+                                System.out.print(" *");
+                            }
                         }
 
                     }
+
+
+
                     System.out.println(" ");
                 }
             }
