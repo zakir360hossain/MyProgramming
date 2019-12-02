@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39c8a6cc-3f74-4d51-92ce-630064c663a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../PyCharm/learning_python/Naming Convention" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PyCharm/learning_python/topic1/method/set_get_del.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PyCharm/learning_python/topic2/Logging/employee.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PyCharm/learning_python/topic2/Logging/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PyCharm/learning_python/topic2/Logging/ex1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PyCharm/learning_python/topic2/Logging/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaScript/SignUp and Login Form/id.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/SignUp and Login Form/id.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Handwritten Digit Recognition/.ipynb_checkpoints/HWR-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Handwritten Digit Recognition/HWR.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heart Disease Analysis/.ipynb_checkpoints/Heart Disease Analysis-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heart Disease Analysis/Heart Disease Analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heart Disease Analysis/processed.cleveland.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heart Disease Analysis/processed.hungarian.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heart Disease Analysis/processed.switzerland.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heart Disease Analysis/processed.va.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Music Preference Analysis-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Music Preference Analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusicPreference.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real Estate/.ipynb_checkpoints/Dragon Real Estate-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real Estate/.ipynb_checkpoints/Model Usage-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real Estate/.ipynb_checkpoints/Real Estate-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real Estate/Dragon Real Estate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real Estate/Model Usage.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real Estate/ModelOutputs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real Estate/housedata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real Estate/realestate.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Real Estate/realestatemodel.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seaborn Course/.ipynb_checkpoints/seaborn-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Seaborn Course/seaborn.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/applying_python/.idea/applying_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyCharm/applying_python/.idea/applying_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/applying_python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyCharm/applying_python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/applying_python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyCharm/applying_python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/learning_python/.idea/learning_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyCharm/learning_python/.idea/learning_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/learning_python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyCharm/learning_python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/learning_python/topic2/closure/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyCharm/learning_python/topic2/closure/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/school_work/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/school_work/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/school_work/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/school_work/.idea/school_work.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/school_work/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/school_work/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyCharm/school_work/evaluator.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1UKCrxxdKLqRdfujA4YD1RJCoY1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39c8a6cc-3f74-4d51-92ce-630064c663a5" name="Default Changelist" comment="" />
+      <created>1575096102766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575096102766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

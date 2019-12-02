@@ -10,13 +10,16 @@ def outer():
 
 
 # When 'outer' function is called, it will output the memory location of inner function, not the value, because it is
-# not returning inner() but simply inner
+# not returning 'inner()' but simply 'inner'
 
 a = outer()
 
 # a = inner (the object reference of inner not the value "hello")
+
 print(a.__name__)  # => will print the name, which is inner
+
 print(a)  # => will print the memory location because it is not a()
+
 a() # => This will print "hello." inner function does not exist outside the outer function, then how is this outputting
 # value that is inside the inner function. This is closure, being able to access inner function, even though they are
 # out of the scope of the outer function

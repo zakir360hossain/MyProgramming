@@ -6,12 +6,12 @@ x = dict([('Robert', 34), ('William', 55), ('Anderson', 20)])
 print(x)
 print(x.keys())
 print(x.values())
-xcopied = x.copy()
+x_copied = x.copy()
 
-mydict = {y*y:y for y in range(20)}
-print(mydict)
-print(mydict[49])
+my_dict = {y * y: y for y in range(20)}
+print(my_dict)
+print(my_dict[49])
 
-mydict2 = ([('h', 242), ('whr', 127)])
-mydict2.clear()
-del mydict2
+my_dict2 = ([('h', 242), ('whr', 127)])
+my_dict2.clear()
+del my_dict2
