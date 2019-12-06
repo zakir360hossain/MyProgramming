@@ -10,4 +10,6 @@ def week(i):
         6: 'Sunday'
     }
     return switcher.get(i, "Invalid day of the week")
-print(week(0));
+
+
+print(week(0))

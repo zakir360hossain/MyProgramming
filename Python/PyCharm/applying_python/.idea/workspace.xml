@@ -2,44 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccb575ef-acee-40a8-a5cb-123124471368" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../learning_python/Naming Convention" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learning_python/topic1/method/set_get_del.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learning_python/topic2/Logging/employee.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learning_python/topic2/Logging/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learning_python/topic2/Logging/ex1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learning_python/topic2/Logging/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaScript/SignUp and Login Form/id.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaScript/SignUp and Login Form/id.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Handwritten Digit Recognition/.ipynb_checkpoints/HWR-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Handwritten Digit Recognition/HWR.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Heart Disease Analysis/.ipynb_checkpoints/Heart Disease Analysis-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Heart Disease Analysis/Heart Disease Analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Heart Disease Analysis/processed.cleveland.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Heart Disease Analysis/processed.hungarian.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Heart Disease Analysis/processed.switzerland.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Heart Disease Analysis/processed.va.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Music Preference/.ipynb_checkpoints/Music Preference Analysis-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Real Estate/.ipynb_checkpoints/Dragon Real Estate-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter/Real Estate/.ipynb_checkpoints/Dragon Real Estate-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Real Estate/.ipynb_checkpoints/Model Usage-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Real Estate/.ipynb_checkpoints/Real Estate-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Real Estate/Dragon Real Estate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter/Real Estate/Dragon Real Estate.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Seaborn Course/.ipynb_checkpoints/seaborn-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter/Seaborn Course/.ipynb_checkpoints/seaborn-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Jupyter/Seaborn Course/seaborn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Jupyter/Seaborn Course/seaborn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/applying_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/applying_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning_python/.idea/learning_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/.idea/learning_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning_python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning_python/topic2/closure/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/topic2/closure/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../school_work/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../school_work/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../school_work/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../school_work/.idea/school_work.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../school_work/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../school_work/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../school_work/evaluator.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/recursion/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/recursion/src/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/recursion/src/gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/recursion/src/problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/recursion/src/problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1/property/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic1/property/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/topic2/descriptor/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/method/property_on_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/property.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/topic1/property/ex1.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,20 +23,14 @@
   </component>
   <component name="ProjectId" id="1UJzlktzldha1xNOkhR9Svubw6S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="simulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -92,6 +59,18 @@
         <item itemvalue="Python.simulation" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />

@@ -9,12 +9,14 @@ parser.add_argument('width', type=int, help='Width of the pyramid')
 group = parser.add_mutually_exclusive_group()
 group.add_argument('-v', '--verbose', action='store_true')
 group.add_argument('-q', '--quiet', action='store_true')
-
+group.add_argument()
 args = parser.parse_args()
 
+
 def pyramid_volume(length, height, width):
-    volume = (length*height*width)/3
+    volume = (length * height * width) / 3
     return volume
+
 
 if args.verbose:
     print("The volume of the pyramid", pyramid_volume(args.length, args.height, args.width))

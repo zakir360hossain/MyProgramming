@@ -1,10 +1,10 @@
 def integer():
-    x = 4  # local, cannot access from outside the integer() scope
+    x = 4  # local, cannot access from outside the integer() function
     print(x)
 
 
 integer()
-# saying print(x) in here will throw error.
+# print(x) in here will throw error.
 
 x1 = 10
 
@@ -33,9 +33,7 @@ def func1():
 
     def func2():
         a = 24  # created local variable.
-        b = 70
         print(a)  # gives 24
-        print(b)
 
     func2()
     print(a)  # gives 23

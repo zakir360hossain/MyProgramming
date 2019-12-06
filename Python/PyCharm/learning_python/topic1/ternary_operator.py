@@ -2,7 +2,7 @@ from random import random
 
 a, b, = 34, 35
 
-print(a if a > b else b)  # syntax: [on_true] if [expression] else [on_false]
+print(a if a < b else b)  # syntax: [on_true] if [expression] else [on_false]
 
 # Using lambda
 print((lambda: f"b:{b}", lambda: f"a:{a}")[a < b]())
