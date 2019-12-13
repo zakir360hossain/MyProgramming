@@ -1,6 +1,6 @@
 class Person:
     def __init__(self):
-        self.name = "Navin"
+        self.name = "Ethan"
         self.age = 28
 
     def update(self):
@@ -25,5 +25,4 @@ if person1.compare_age(person2):
 
 else:
     print("They do not have the same age")
-
 # Here person1 become the self for method compare_age. self indicates that person1 is being compared to person2

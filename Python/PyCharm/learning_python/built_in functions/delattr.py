@@ -1,10 +1,9 @@
-class fruit:
+class Fruit:
     size = 7
 
 
-orange = fruit()
+orange = Fruit()
 print(orange.size)
 
-delattr(fruit, 'size')
+delattr(Fruit, 'size')
 print(orange.size)  # => 'size' attribute is deleted
-

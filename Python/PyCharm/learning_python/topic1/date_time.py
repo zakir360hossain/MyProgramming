@@ -40,4 +40,3 @@ print(message.format(moon_landing), "\n")
 # Now
 print(datetime.datetime.utcnow())
 print(datetime.datetime.now())
-

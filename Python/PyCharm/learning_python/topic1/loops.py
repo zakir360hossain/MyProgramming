@@ -3,7 +3,8 @@ a = 10
 while a > 0:
     print(a)
     a -= 2
-    if a == 2: break;
+    if a == 2:
+        break
 else:
     print("Broke at 2")
 
@@ -11,7 +12,7 @@ else:
 for i in [1, 2, 4, 5]:
     n = 2
     if n == i:
-        print("n is in the list");
+        print("n is in the list")
         break
 
 # Nested loop

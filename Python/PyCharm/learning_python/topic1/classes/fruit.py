@@ -1,7 +1,7 @@
 class Fruits:
-    """The fruit's name and its price"""  # Docstring
+    """This is a Fruit class"""
 
-    def __init__(self, name, price): # "self" is temporary placement for object's parameter
+    def __init__(self, name, price):  # "self" is temporary placement for object's parameter
         self.name = name
         self.price = f"${price}"
 
