@@ -11,13 +11,14 @@ public class Chair {
     private String type;
     private int age;
 
-
+    // Default constructor
     public Chair() {
         cost = 0;
         type = " ";
         age = 0;
     }
 
+    // Parameterized constructor
     public Chair(double cost, String type, int age) {
         this.cost = cost;
         this.type = type;
@@ -60,7 +61,7 @@ public class Chair {
      * 	returns a negative number if this chair has lower cost than other chair
      * 	returns a positive number if this chair has higher cost than other chair
      */
-    public int compareTo(Chair other) {
+    public int compareCost(Chair other) {
         if (other.cost == this.cost) {
             return 0;
         } else if (other.cost > this.cost) {

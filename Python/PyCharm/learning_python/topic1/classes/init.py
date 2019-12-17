@@ -9,7 +9,7 @@ class Computer:
         print(f"Year: {year}, CPU: {self.cpu},  RAM: {self.ram}, Model: {self.model}")
 
 
-computer1 = Computer("i5", "8 MG", "OS X")
+computer1 = Computer("i5", "8 MG", "os_module X")
 # All the parameters under the init method will have values when the instance us being created. init is not
 # need to be called explicitly, it will be called internally.
 

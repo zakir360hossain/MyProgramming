@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccb575ef-acee-40a8-a5cb-123124471368" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/recursion/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/recursion/src/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/recursion/src/gcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/recursion/src/problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/recursion/src/problem4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learning_python/topic1/property/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learning_python/topic1/property/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learning_python/topic2/descriptor/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/method/property_on_method.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/property.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/topic1/property/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/array/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/School Code/array/src/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Zack.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning_python/built_in modules/os_module/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/array/out/production/array/Chair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/array/out/production/array/Chair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/array/out/production/array/TestChair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/array/out/production/array/TestChair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/array/src/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/array/src/Chair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/School Code/array/src/TestChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/School Code/array/src/TestChair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/built_in modules/OS/os_mod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_python/topic1/classes/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_python/topic1/classes/init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Libraries.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Libraries.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -97,5 +100,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="33" y="0" key="SettingsEditor" timestamp="1576469329815">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="33" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1576469329815" />
   </component>
 </project>
