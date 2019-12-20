@@ -1,1 +1,0 @@
-print(bytearray(3))

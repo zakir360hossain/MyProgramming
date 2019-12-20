@@ -1,5 +1,6 @@
 using namespace std;
-
-int  main(){
-    int firstNumber, secondNumber, sum;
+int main() 
+{
+    cout << "Hello, World!";
+    return 0;
 }
