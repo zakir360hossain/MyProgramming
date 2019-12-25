@@ -1,0 +1,7 @@
+# Polymorphism
+# Sometimes an object comes in many types or forms
+# A button, there are many different draw forms of it (round, check, square, with image) but they all share the
+# same logic: onClick()
+# We access them using the same method. This is polymorphism.
+
+# Polymorphism can be achieved through overriding or overloading in Python.

@@ -1,0 +1,35 @@
+# args: non=keyworded, and variable-length. Returns as a tuple
+# kwargs: keyworded, returns as a dictionary
+# formal args: regular arguments, raises error if not given.
+
+# args:
+def add(*nums):
+    return sum(nums)
+
+    # This way could also work, knowing that nums is an iterable because it's a tuple
+    # total_sum = 0
+    # for i in nums:
+    #     total_sum += i
+    # return total_sum
+
+
+print(add(2, 3456, 56, 65856, 54676))
+
+
+# kwargs:
+def book(**data):
+    print(data)
+
+
+book(title="Symposium", author="Plato", time="450 BC", subjects="Philosophy")
+
+
+# All three:
+def planet(name, *characteristics, **properties):
+    # 'name' is regular, so it's compulsory in here
+    print(f"{name}:\n   {characteristics}\n   {properties}")
+
+
+planet("Earth", "medium-sized", "3rd from the sun", "active surface", "contains water",
+       age="4.543 years", refuge_life=True, radius="6356 km", oblate_spheroid=True, orbital_period="360 days")
+# All the other attributes are optional, except 'Earth'

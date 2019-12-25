@@ -1,11 +1,21 @@
-# When a subclass changes the functionality of a method that is in the parent classes.
+# Overriding => having 2 methods with the same name but doing different things
 
+# A subclass changes the functionality of a method that is in the parent classes, same name.
 class A:
+    name = "Hello"
+
     def person(self):
         print("I am john")
+
+
 class B(A):
+    name = "Hi"
+
     def person(self):
         print("I am Smith")
-b_obj = B()
-b_obj.person()
+
+
+obj = B()
+obj.person()
+print(obj.name)
 # This is changing from John to Smith. Always will print Smith

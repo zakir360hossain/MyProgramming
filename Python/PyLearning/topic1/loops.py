@@ -1,4 +1,6 @@
 # While loop
+print("Hello there")
+
 a = 10
 while a > 0:
     print(a)
@@ -20,4 +22,3 @@ for i in [1, 2, 4, 5]:
 for i in range(1, 11):
     for j in range(i):
         print(j + 1)
-    print()
