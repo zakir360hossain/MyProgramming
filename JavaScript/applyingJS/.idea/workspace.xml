@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ae6adad-4af2-4a46-b71a-6217458319c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Clock/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clock/clock.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clock/clock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clock/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/game.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/highscores.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/highscores.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/highscores.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/questions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/resultPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz App/resultPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scientific Calculator/calculator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scientific Calculator/calculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scientific Calculator/styling.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scientific Calculator/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignUp and Login Form/id.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignUp and Login Form/identityconfirmation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignUp and Login Form/signinform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignUp and Login Form/signinstyling.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignUp and Login Form/signupform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SignUp and Login Form/signupstyling.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/public/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/components/DeletePoster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/components/EditDetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/components/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/components/Poster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/components/Profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/images/prfily.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/pages/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/pages/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/pages/signup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/redux/actions/dataAction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/redux/actions/userAction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/redux/reducers/dataReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/redux/reducers/uiReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/redux/reducers/userReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/redux/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/redux/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/util/AuthRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/util/MyButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../posta/src/util/theme.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Vp00FLpnpOssWd01A5cauj0pYg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae6adad-4af2-4a46-b71a-6217458319c6" name="Default Changelist" comment="" />
+      <created>1577934503332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577934503332</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -152,6 +152,7 @@ def CostofItem():
     TotalCost.set(TotalPrice)
 
 
+
 def chkLatta():
     if var1.get() == 1:
         txtLatta.configure(state=NORMAL)

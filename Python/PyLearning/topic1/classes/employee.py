@@ -1,3 +1,7 @@
+
+
+
+
 class Employee:
     """This classes is about employee directory"""
 
@@ -24,3 +28,4 @@ employee1.apply_raise(1.4)
 print(employee1.pay)
 print(employee1.__dict__)  # This will show all the attributes and their corresponding values.
 print(Employee.__doc__)
+

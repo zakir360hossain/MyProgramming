@@ -1,4 +1,6 @@
 class Person:
+    """THE END"""
+
     def __init__(self):
         self.name = "Ethan"
         self.age = 28
@@ -6,7 +8,7 @@ class Person:
     def update(self):
         self.age = 30
 
-    def compare_age(self, other_person):
+    def compare_age(self, other_person, b=True):
         if self.age == other_person.age:
             return True
         else:
