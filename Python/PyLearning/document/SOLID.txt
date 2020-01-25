@@ -1,15 +1,15 @@
 SOLID principles
 First introduced by Robert Martin (Uncle Bob)
 
-S => Single Responsibility Principle
+S: Single Responsibility Principle
 A class or function should do one task
 
-O => Open/Close Principle
+O: Open/Close Principle
 
-L => Liskov Substitution Principle
+L" Liskov Substitution Principle
 A subclass should be able to do the task that a main class can do; a subclass can be substituted for a main class
 if needed.
 
-I => Interface Segregation Principle
+I: Interface Segregation Principle
 
-D => Dependency Inversion Principle
+D: Dependency Inversion Principle

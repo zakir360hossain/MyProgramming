@@ -1,0 +1,11 @@
+Concepts:
+1.  Polymorphism
+2.  Abstraction
+3.  Inheritance
+4.  Object
+5.  Class
+6.  Encapsulation
+7.  Composition
+8.  Delegation
+9.  Open Recursion
+10. Method
