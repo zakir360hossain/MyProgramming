@@ -1,4 +1,4 @@
-# When more than one class inherits from a class, it is said to be hierarchical.
+# When more than one class inherits a base class, it is said to be hierarchical.
 
 class A:
     pass

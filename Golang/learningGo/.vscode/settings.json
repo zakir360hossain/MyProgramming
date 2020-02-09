@@ -1,0 +1,8 @@
+{
+  "workbench.colorTheme": "Monokai",
+  "workbench.preferredDarkColorTheme": "Monokai",
+  "workbench.preferredHighContrastColorTheme": "Monokai",
+  "workbench.preferredLightColorTheme": "Monokai",
+  "workbench.iconTheme": "eq-material-theme-icons",
+  "workbench.view.experimental.allowMovingToNewContainer": true
+}

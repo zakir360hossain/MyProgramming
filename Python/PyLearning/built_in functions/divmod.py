@@ -1,4 +1,4 @@
-# Returns a tuple of two parameters' quotient and remainder
+# Returns a tuple of quotient and remainder of two numbers
 
 print(divmod(3, 7))
 print(divmod(9, 3))

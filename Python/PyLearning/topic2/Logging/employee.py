@@ -10,7 +10,8 @@ file_handler.setFormatter(formatter)
 
 logger.addHandler(file_handler)
 
-# If not created one's own logger
+
+# If not created one's own logger:
 # logging.basicConfig(filename='employee.log', level=logging.INFO, format='%(asctime)s:%(levelname)s:
 # %(name)s:%(message)s')
 

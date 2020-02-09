@@ -1,4 +1,4 @@
-# It allows to call a method from the parent classes.
+# It allows to call a method from the parent class.
 
 class Vehicle:
     """This is the parent class"""

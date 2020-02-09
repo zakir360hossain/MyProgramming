@@ -1,6 +1,4 @@
-# A single Python inheritance is when a single classes inherits from a classes.
-
-# Example 1
+# A single inheritance is when a single class inherits a base class.
 
 x = 0
 
@@ -12,13 +10,13 @@ class Fruit:
         print(f"I am a fruit")
 
 
-class Tropical(Fruit):
+class Orange(Fruit):
     def __init__(self):
-        super().__init__()  # super() allows to call method from the parent function.
+        super().__init__()  # super() allows to call method from the parent class.
         global x
         x += 10
-        print("I am tropical")
+        print("I am an Orange")
 
 
-banana = Tropical()
+banana = Orange()
 print(x)

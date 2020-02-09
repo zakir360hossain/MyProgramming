@@ -1,5 +1,5 @@
 # Polymorphism
-# Sometimes an object comes in many types or forms
+# Sometimes objects come in many types or forms
 # A button, there are many different draw forms of it (round, check, square, with image) but they all share the
 # same logic: onClick()
 # We access them using the same method. This is polymorphism.

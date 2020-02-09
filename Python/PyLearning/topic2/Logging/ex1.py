@@ -1,5 +1,4 @@
 import logging
-from topic2.Logging import employee
 
 # Purpose: Record progress and problems...
 # Levels: Debug, Info, Warning, Error, Critical
@@ -38,5 +37,5 @@ logging.debug(f"Subtracted: {a}")
 c = mul(345, 346)
 logging.debug(f"multiplied: {a}")
 
-a = div(345, 346)
+a = div(345, 0)
 logging.debug(f"divided: {a}")

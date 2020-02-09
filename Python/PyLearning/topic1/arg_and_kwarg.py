@@ -1,6 +1,15 @@
-# args: non=keyworded, and variable-length. Returns as a tuple
+# args: non-keyworded, and variable-length. Returns as a tuple
 # kwargs: keyworded, returns as a dictionary
 # formal args: regular arguments, raises error if not given.
+
+
+# Formal:
+def product(a, b):
+    return a * b
+
+
+print(product(3, 4))
+
 
 # args:
 def add(*nums):
@@ -31,5 +40,5 @@ def planet(name, *characteristics, **properties):
 
 
 planet("Earth", "medium-sized", "3rd from the sun", "active surface", "contains water",
-       age="4.543 years", refuge_life=True, radius="6356 km", oblate_spheroid=True, orbital_period="360 days")
-# All the other attributes are optional, except 'Earth'
+       age="4.543 years", refuge_life=True, radius="6356 km", shape="oblate-spheroid", orbital_period="360 days")
+# All the other attributes are optional, except 'Earth' because that's formal argument.

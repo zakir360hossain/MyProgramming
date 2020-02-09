@@ -1,6 +1,6 @@
-# Checks if the second classes is under the first classes
+# Checks if the second class is under the first class
 class field:
     pass
 
-print(issubclass(field, field))
 
+print(issubclass(field, field))

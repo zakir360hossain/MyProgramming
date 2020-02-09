@@ -1,5 +1,5 @@
-# When in all the parent classes, methods or variable have same name, which one get printed when
-# that method is called by the child classes.
+# When all methods or variables have same names which one get printed when
+# they are called by the child classes?
 class Color:
     x = "orange"
 
@@ -21,4 +21,4 @@ class Orange(Color, Fruit):
 
 
 print(Orange.x)  # It output "orange" because in the order of the parent classes, Color was first.
-Orange.char() # Output "Juicy" because Color is first again.
+Orange.char()  # Output "Juicy" because Color is first again.

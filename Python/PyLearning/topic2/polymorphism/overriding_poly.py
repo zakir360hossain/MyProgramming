@@ -11,8 +11,8 @@ class PNC(Bank):
 # Here, the method ratio_of_interest is present in both parent and child class, but doing different things
 
 # returns 0.06
-obj = Bank()
-print(obj.ratio_of_interest())
+americanBank = Bank()
+print(americanBank.ratio_of_interest())
 # returns 0.09
-obj2 = PNC()
-print(obj2.ratio_of_interest())
+americanPNCBank = PNC()
+print(americanPNCBank.ratio_of_interest())

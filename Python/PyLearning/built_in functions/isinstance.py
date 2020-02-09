@@ -1,4 +1,4 @@
-# Checks if a classes has the indicated attribute
+# Checks if a class has the indicated instance
 shape = None
 
 
