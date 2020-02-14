@@ -18,6 +18,6 @@ public class RoundBalloon extends Balloon {
 
     // An example of polymorphism
     public String toString(){
-        return super.toString()+ "Radius: "+radius;
+        return super.toString()+ "\nRadius: "+radius;
     }
 }

@@ -20,6 +20,6 @@ public class SquareBalloon extends Balloon {
         return Math.pow(SideLength, 3);
     }
     public String toString(){
-        return super.toString();
+        return super.toString() + "\nSide : " +SideLength;
     }
 }

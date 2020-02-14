@@ -25,7 +25,7 @@ public abstract class Balloon {
 	
 	public String toString()
 	{
-		return "Color: " + color + " Cost: " + cost;
+		return "Color: " + color + "\nCost: " + cost;
 	}
 
 }
