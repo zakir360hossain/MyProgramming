@@ -1,8 +1,8 @@
 public class ShowerCake extends Cake {
 
     private String text; // What's to be written on the cake.
-    private String indicator; // girl, boy, unknown, wedding.
-    public ShowerCake(int calories, int numServing, double cost, String flavor, int layers, String text, String indicator) {
+    private int indicator; // girl=1, boy=2, unknown=3, wedding=4.
+    public ShowerCake(int calories, int numServing, double cost, String flavor, int layers, String text, int indicator) {
         super(calories, numServing, cost, flavor, layers);
         this.text = text;
         this.indicator = indicator;
@@ -17,14 +17,17 @@ public class ShowerCake extends Cake {
     }
     public String toString(){
         String type = "Boy";
-        if(indicator.equalsIgnoreCase("boy")){
+        if(indicator==2){
             type = "Boy";
         }
-        else if(indicator.equalsIgnoreCase("baby")){
-            type = "Baby";
+        else if(indicator==1){
+            type = "Girl";
         }
-        else if(indicator.equalsIgnoreCase("wedding")){
-            type = "wedding";
+        else if(indicator==3){
+            type = "Unknown";
+        }
+        else if(indicator==4){
+            type = "Wedding";
         }
 
         return "nText: "+text+ "\nShower: "+type+ super.toString();
