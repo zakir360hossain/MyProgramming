@@ -1,0 +1,14 @@
+Serialization (also called marshaling or pickling):
+The process of converting a python object from python supported form to file supported form, JSON or, yaml.
+
+Deserialization (also called unmarshaling or unpicking):
+The process of converting an object from file form, JSON, or yaml to python supported form. Reverse of Serialization.
+
+
+When sending the objects from python form to another language (not converting to file form) the objects need to be
+converted to the form if JSON or yaml, because JSON or yaml are the form that many languages can understand.
+
+Modules:
+Python to file form and vice versa - pickle
+Python to JSON and vice versa(some other languages) - JSON
+Python to yaml and vice versa - pyaml
