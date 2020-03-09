@@ -1,3 +1,9 @@
+/**
+ * @author Zakir Hossain
+ * March 2, 2020
+ * This is the Flying interface with two methods that will potentially be implemented in different child classes of
+ * Airplane.
+ */
 public interface Flying {
 
     /*

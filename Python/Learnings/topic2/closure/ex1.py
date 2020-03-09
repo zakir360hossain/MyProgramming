@@ -30,4 +30,3 @@ a() # => This will print "hello." inner function does not exist outside the oute
 # 2. Nested function must refer values in enclosing scope, the scope of outer function. (msg in this case becasue msg is
 #    outside the inner function or nonlocal to it)
 # 3. Enclosing function (outer in this case) must return the nested function (inner in this case)
-

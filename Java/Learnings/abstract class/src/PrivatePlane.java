@@ -1,3 +1,9 @@
+
+/**
+ * @author Zakir Hossain
+ * March 2, 2020
+ * This is the PrivatePlane class, a child class of Airplane. It also implements the method from the Flying interface
+ */
 public class PrivatePlane extends Airplane implements Flying {
     private String make;    //represents the model of the CommercialJet (Boeing, Airbus, etc.)
     private double tankSize;    //represents the size of the fuel tank
@@ -18,26 +24,42 @@ public class PrivatePlane extends Airplane implements Flying {
         this.passNum = passNum;
     }
 
-    @Override
-    public void airplaneValue() {
-        double deduction_with_age = (0.025 * getAge()) * getValue();
-        double deduction_with_mileage = 0;
+      //Setters
+    public void setMake(String make) {
+        this.make = make;
+    }
 
-        if (getOverallMiles() >= 0 && getOverallMiles() <= 24999) {
-            deduction_with_mileage = 0.05 * getValue();
-        } else if (getOverallMiles() >= 25000 && getOverallMiles() <= 49999) {
-            deduction_with_mileage = 0.1 * getValue();
-        } else if (getOverallMiles() >= 50000 && getOverallMiles() <= 74999) {
-            deduction_with_mileage = 0.15 * getValue();
-        } else if (getOverallMiles() > 75000 && getOverallMiles() <= 99999) {
-            deduction_with_mileage = 0.2 * getValue();
-        } else {
-            deduction_with_mileage = 0.25 * getValue();
-        }
-        setValue(getValue() - deduction_with_age - deduction_with_mileage);
+    public void setTankSize(double tankSize) {
+        this.tankSize = tankSize;
+    }
+
+    public double getTripMiles() {
+        return tripMiles;
+    }
+
+    public void setFuelUsed(double fuelUsed) {
+        this.fuelUsed = fuelUsed;
+    }
+
+    //Getters
+    public String getMake() {
+        return make;
+    }
+
+    public double getTankSize() {
+        return tankSize;
+    }
+
+    public void setTripMiles(double tripMiles) {
+        this.tripMiles = tripMiles;
+    }
+
+    public double getFuelUsed() {
+        return fuelUsed;
     }
 
     @Override
+    //Overriding interface method
     public double calcMileage(double miles, double gallons) {
         // Updates the MPG of the airplane based on the miles it covered with the fueled it burned
         this.setMPG(miles / gallons);
@@ -47,12 +69,14 @@ public class PrivatePlane extends Airplane implements Flying {
     }
 
     @Override
+    //Overriding interface method
+     // Overriding interface method, this can be generic since there are no changes will be occurring in the child classes
     public double updateOverallMileage(double miles, double gallons) {
         double newMileage = (getOverallMiles() + miles) / (gallons + (getOverallMiles() / getMPG()));
-        this.setMPG(newMileage);
-        this.setOverallMiles(getOverallMiles() + miles);
+        this.setOverallMiles(newMileage);
         return newMileage;
     }
+
 
     public int compareTo(PrivatePlane other) {
         if (passNum<other.passNum){
@@ -72,12 +96,11 @@ public class PrivatePlane extends Airplane implements Flying {
 
     @Override
     public String toString() {
-        return "Generic Information: \n"+super.toString()+"\nSpecific Information: "+"PrivatePlane{" +
-                "make='" + make + '\'' +
-                ", tankSize=" + tankSize +
-                ", tripMiles=" + tripMiles +
-                ", fuelUsed=" + fuelUsed +
-                ", passNum=" + passNum +
-                '}';
+       return super.toString()+
+                "make: " + make +
+                "\ntankSize: " + tankSize +
+                "\ntripMiles: " + tripMiles +
+                "\nfuelUsed: " + fuelUsed+
+                "\nMaximum occupancy: "+passNum;
     }
 }

@@ -1,4 +1,4 @@
-from module import arithmetic as am
+from importingModules import arithmetic as am
 
 addition = am.add(123, 234)
 print(addition, "\n")

@@ -13,3 +13,5 @@ obj.say_hello()
 
 # Will return conditional output
 obj.say_hello("John")
+import sys
+print(sys.executable)
