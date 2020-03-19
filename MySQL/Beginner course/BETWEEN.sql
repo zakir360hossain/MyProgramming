@@ -1,4 +1,4 @@
-SELECT 
+SELECT
     *
 FROM
     customers

@@ -1,4 +1,5 @@
-SELECT 
+use sql_store;
+SELECT
     o.order_id, c.first_name, sh.name
 FROM
     orders o

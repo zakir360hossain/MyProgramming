@@ -1,0 +1,10 @@
+Go (Golang)
+
+- Strong and statically typed
+- Excellent community
+-  Key Feature:
+    - Simplicity
+    - Fast compile times
+    - Garbage collected  (You do not have to worry about memory)
+    - Built-in concurrency
+    - Compile to standalone binaries
