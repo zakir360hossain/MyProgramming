@@ -14,7 +14,7 @@ print(age)
 # move Kanya to top
 age.move_to_end('Kanya', last=False)
 
-# Pops out a value pair from the container and then displays it.
+# Pops out (removes) a value pair from the container and then displays it.
 print(age.popitem(last=False))
 
 print(age)  # Kanya is no more in the container because she is popped out.

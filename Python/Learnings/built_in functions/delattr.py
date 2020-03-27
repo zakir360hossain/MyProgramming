@@ -3,7 +3,9 @@ class Fruit:
 
 
 orange = Fruit()
+# size is printed in here
 print(orange.size)
 
+# Throws error, the instance size is no more there.
 delattr(Fruit, 'size')
 print(orange.size)  # => 'size' attribute is deleted

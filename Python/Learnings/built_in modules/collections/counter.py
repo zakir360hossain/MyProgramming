@@ -1,5 +1,4 @@
 # Collections: Counter, defaultdict, OrderedDict, namedtuple ( all of them are subclasses of dict function)
-
 from collections import Counter
 print(issubclass(Counter, dict))
 
@@ -8,21 +7,21 @@ print(issubclass(Counter, dict))
 companies = ['Sisco', 'Tera Data', 'Amazon', 'SAP', 'Vanguard', 'AGI', 'JHC', 'Google']
 print(Counter(companies))
 
-# Populate after declaring empty
+# Populate after declaring empty, because Counter is a class.
 fruits = Counter()
 fruits.update(['Apple', 'Banana', 'Banana', 'Peach', 'Peach', 'Peach', 'Orange', 'Orange'])
 print(fruits)
 
-# Accessing Counts
+# Accessing Counts, this will only give the count of the element, not the element.
 print(fruits['Apple'])
 print(fruits['apple'])  # => this will give 0 because in the list, the Apple is uppercase.
 print(fruits['Peach'])
 
-# Iterator for Counts
+# Through iterator for Counts
 for i in fruits.elements():
     print(f"{i}: {fruits[i]}")
 
-# most_common method => if n=1 then which element is the most frequent, if n=2 then which two are most frequent.
+# most_common(n) ->  returns n most frequent elements.
 print(fruits.most_common(1))
 
 # Arithmetic
