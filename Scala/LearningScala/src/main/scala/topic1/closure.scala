@@ -9,7 +9,7 @@ object closure {
   }
 
 
-  // Impure closure, due the name being var rather than val. var can be changed
+  // Impure closure, being var rather than val. var can be changed
   var num = 68
   def func(x: Int, y: Int): Int= {
     return x+y+num // Uses variable from outside scope

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c016a7c2-1fd3-4ed2-acb8-f7317978ed73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../learning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/.idea/learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/arrays" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/arrays.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/function" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/function.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/hello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/hello.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/input_output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/input_output.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/loops" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/loops.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/switchcase" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/ternary.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/variables" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/variables.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/vector" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/basics/vector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/learning.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/learning.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/learning.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/learning.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/learning.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/learning.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/learning.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learning/cmake-build-debug/learning.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/abstract class/Hailstone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/abstract class/src/Hailstone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/Learnings/topic1/sortingAlg/bubble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/Learnings/topic1/sortingAlg/heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/Learnings/topic1/sortingAlg/merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/Learnings/topic2/duck_typing/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/basics/tuple.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/oop/Scala_Trait.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/oop/abstraction/Circle.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/oop/abstraction/Figure.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/oop/classes/class1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/oop/inheritance/Polygon.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/oop/inheritance/Rectangle.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/oop/inheritance/Triangle.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/topic1/lazy_eval.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/topic1/map.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/topic1/map_and_filter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/topic1/options.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/topic1/reduce_fold_scan.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/Tester/out/production/Tester/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/abstract class/src/TestAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/abstract class/src/TestAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learnings/topic1/sortingAlg/insertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learnings/topic1/sortingAlg/insertion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learnings/topic1/sortingAlg/quickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learnings/topic1/sortingAlg/quick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learnings/topic1/sortingAlg/selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learnings/topic1/sortingAlg/selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/LearningScala/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/LearningScala/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/topic1/closure.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/topic1/closure.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/topic1/set.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/LearningScala/src/main/scala/topic1/set.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/LearningScala/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/LearningScala/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/LearningScala/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/LearningScala/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/LearningScala/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/LearningScala/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aBBImlKfyBEwJL29ypYtCDL3bZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c016a7c2-1fd3-4ed2-acb8-f7317978ed73" name="Default Changelist" comment="" />
+      <created>1586199028258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586199028258</updated>
+      <workItem from="1586199030613" duration="2073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="113" key="GridCell.Tab.0.bottom" timestamp="1586201997392">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="113" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586201997392" />
+    <state width="1238" height="113" key="GridCell.Tab.0.center" timestamp="1586201997391">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="113" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1586201997391" />
+    <state width="1238" height="113" key="GridCell.Tab.0.left" timestamp="1586201997390">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="113" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1586201997390" />
+    <state width="1238" height="113" key="GridCell.Tab.0.right" timestamp="1586201997391">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="113" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1586201997391" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1586199332558">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1586199332558" />
+  </component>
+</project>

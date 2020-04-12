@@ -13,16 +13,9 @@ How to choose the right pivot in the first place?
 The most used approach is with median-of-three
 sort the first, mid, and last elements of the array and choose the new mid to be the pivot.
 
-COMPARISON
-Number of comparisons = (N-1)+(N-2)+(N-3)...+1 = (N * (N-1))/2
-To find the minimum element in the first partition it takes N-1 comparisons, and N decrements by
-1 in each subsequent partition, since after each partition one element become into sorted portion
-Time Complexity = O(N^2). N is the size of the array
-
-TIME
-Minimum number of insertion sort comparisons  =  N - 1
-Maximum number of insertion sort comparisons  =  1/2(N2 - N)
-Average number of insertion sort comparisons  =  1/4(N2 - N)
+TIME COMPLEXITY
+Average case:  O(NlogN)
+Worst case: O(N^2)
 """
 
 def partition(arr, low, high):

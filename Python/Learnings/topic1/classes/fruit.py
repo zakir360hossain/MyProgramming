@@ -1,3 +1,4 @@
+
 class Fruits:
     """This is a Fruit class"""
 

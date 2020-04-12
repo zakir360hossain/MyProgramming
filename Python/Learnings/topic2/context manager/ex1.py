@@ -1,5 +1,6 @@
 
 
+# Not Context manager.
 file  = open("file.txt", "w")
 # Here w is write method, which means it will create the file if does not exist. 
 file.write("Hello")

@@ -1,1 +1,1 @@
-print(bytearray(3))
+print(bytearray(10))

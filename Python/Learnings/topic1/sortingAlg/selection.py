@@ -1,7 +1,7 @@
 """
 DEFINITION
 One partition (ascending):
-Selection Sorting. Select first to be the minimum, compare each next element to the first, if
+Select first element to be the minimum, compare each next element to the first, if
 the next element is smaller than the chosen minimum, consider it as the possible minimum, if the 3rd
 element is smaller than the 2nd element than that becomes the possible minimum number. When the
 smallest number is found it is swap with the first chosen minimum.
@@ -14,7 +14,7 @@ To find the minimum element in the first partition it takes N-1 comparisons, and
 1 in each subsequent partition, since after each partition one element become into sorted portion
 Time Complexity = O(N^2). N is the size of the array
 
-TIME
+TIME COMPLEXITY
 Minimum number of insertion sort comparisons  =  N - 1
 Maximum number of insertion sort comparisons  =  1/2(N2 - N)
 Average number of insertion sort comparisons  =  1/4(N2 - N)
