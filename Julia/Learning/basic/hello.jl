@@ -1,0 +1,3 @@
+
+println("Welcome to Julia")
+
