@@ -4,4 +4,4 @@
 
 x <- factor(c('Male', 'Female', 'Male', 'Male', "Male"))
 x # Returns the elements and the levels (male and female)
-table(x) # Returns count of elem in each level
+table(x) # Returns count of elements in each level

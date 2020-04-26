@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/learning.dir/basics/hello.cpp.o CMakeFiles/learning.dir/basics/input_output.cpp.o CMakeFiles/learning.dir/basics/int.cpp.o  -o learning 

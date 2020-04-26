@@ -11,6 +11,5 @@ log(x)
 log(x, base = 2)
 log2(x) # Same as previous. And has many other bases.
 
-x <- c(4, 3, 6)
-factorial(x) # for each elem
-
+x2 <- c(4, 3, 6)
+factorial(x2) # for each elem
