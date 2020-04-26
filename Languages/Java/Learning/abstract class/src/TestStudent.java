@@ -39,6 +39,5 @@ public class TestStudent {
         System.out.println(henderson);
         System.out.println(east);
 
-
     }
 }
