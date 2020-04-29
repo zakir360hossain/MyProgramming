@@ -7,6 +7,7 @@ library(dplyr)
 #select function. Used to subset the data with specific rows
 df <- read.csv('data/murders.csv')
 df
+str(df) # with str is a compact way to display an R object
 dim(df)
 names(df) #Names of the columns
 str(df) # The structure of the dataframe

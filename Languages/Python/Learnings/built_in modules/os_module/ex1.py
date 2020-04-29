@@ -40,3 +40,5 @@ os.removedirs()
 os.stat()
 
 os.walk()
+
+print(os.listdir())

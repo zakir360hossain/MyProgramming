@@ -12,7 +12,7 @@ plot(
   main = 'Population vs. Murders',
   col = 'red',
   pch = 20
-) # R has some pre-defined signifiers for plot charater.
+) # R has some pre-defined signifiers for pch (plot charater).
 
 # Line graph
 plot(
@@ -22,4 +22,4 @@ plot(
   ylab = 'Murders',
   main = 'States vs Murders',
   col = 'blue'
-)s
+)

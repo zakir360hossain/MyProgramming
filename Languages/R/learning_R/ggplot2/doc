@@ -1,0 +1,17 @@
+An implemenation of the "Grammar of Graphics" (Leland Wilkinson)
+Written by Hadley Wickham
+A third graphics system for R (along with base and lattice)
+Need to specify dataframe. If not specified, it will look for it in the workplace
+Aesthetics (color, shape, size)
+Geomtrics (points, lines, bars)
+
+This package is one of the packages that combines to make the tidyverse package, a package for Data Science. If tidyverse is loaded, all the packages become available
+tidyverse is an ecosystem of packages designed with common APIs and shared philosophy.
+
+tidyverse package contains the following packages:
+"broom"      "cli"        "crayon"     "dbplyr"     "dplyr"     
+"forcats"    "ggplot2"    "haven"      "hms"        "httr"      
+"jsonlite"   "lubridate"  "magrittr"   "modelr"     "pillar"    
+"purrr"      "readr"      "readxl"     "reprex"     "rlang"     
+"rstudioapi" "rvest"      "stringr"    "tibble"     "tidyr"     
+"xml2"       "tidyverse" 

@@ -1,5 +1,12 @@
-print(all({'he', ' she', 'they'}))  # => True, no empty value
-print(all({'', ' she', 'they'}))  # => False, one empty value
+# Checks if there is an empty object in an iterable.
+# Returns true if no element/object is empty, otherwise false
 
-if all({'he', ' she', 'they'}):
-    print("True")
+a = {'A', 'B', 'C'}
+print(all(a))
+
+
+a = ['A', 'B', 'C', '']
+print(all(a))
+
+c = [1, 2, 3, 4, None]
+print(all(c)) # False, None is considered empty

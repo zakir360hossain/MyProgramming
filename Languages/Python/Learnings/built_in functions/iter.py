@@ -8,3 +8,10 @@ for num in iter(arr1):
 arr2 = {1, 2, 45, 56}
 for num in iter(arr2):
 	print(num)
+
+student = {101:"William", 102:"Henry", 103:"Joshua", 104: "George"}
+
+# A dictionary is also iterable (specifically its keys or values)
+# By default, a dictionary is iterated through the keys.
+for s in iter(student):
+	print(s)

@@ -1,3 +1,6 @@
+#delattr(object, attribute name)
+#Deletes an attribute permanently. 
+
 class Fruit:
     size = 7
 
@@ -9,3 +12,4 @@ print(orange.size)
 # Throws error, the instance size is no more there.
 delattr(Fruit, 'size')
 print(orange.size)  # => 'size' attribute is deleted
+delattr()
