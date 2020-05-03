@@ -3,14 +3,14 @@ class Car:
         self.model = model
         self.price = price
 
-    # Setter method
+    # Getter method
     def get_model(self):
         return self.model
 
     def get_price(self):
         return self.price
 
-    # Getter method
+    # Setter method
     def set_model(self, model):
         self.model = model
 

@@ -15,7 +15,7 @@ class Employee:
 
     @fullname.setter
     def fullname(self, name):
-        fn, ln, = name.split(' ')
+        fn, ln = name.split(' ')
         self.fn = fn
         self.ln = ln
 

@@ -7,8 +7,8 @@ class Person:
         return self._name
 
     @name.setter
-    def name(self, value):
-        self._name = value.capitalize()
+    def name(self, name):
+        self._name = name.capitalize()
 
 
 person1 = Person('jim')

@@ -14,7 +14,7 @@ print(expon(a=24, b=3))  # Both gives the same answers because a and b are now k
 print(expon(b=3, a=24))
 
 
-# Arbitrary Argument = not knowing how many arguments. All the arguments turn into a tuple
+# Arbitrary args
 def sayhello(*names):
     for name in names:
         print(f"Hello, {name}")

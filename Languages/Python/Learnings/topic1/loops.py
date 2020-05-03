@@ -1,6 +1,4 @@
 # While loop
-print("Hello there")
-
 a = 10
 while a > 0:
     print(a)
@@ -18,7 +16,10 @@ for i in [1, 2, 4, 5]:
         break
 
 # Nested loop
-
 for i in range(1, 11):
     for j in range(i):
         print(j + 1)
+
+# Enumerate is useful when having to deal with index. Avoid using a counter
+for i, num in enumerate(range(1, 20, 2)):
+    print(i, num)

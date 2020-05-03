@@ -1,8 +1,10 @@
-# Will print the except block if this fails
-try:
-    print(1 / 2)
+# If try block is computable, then proceeds, else computes the except block.
 
-# This will be printed only if the try block is faild
+def div(a, b):
+    return a/b
+try:
+    print(div(10, 0))
+
 except ZeroDivisionError:
     print("Cannot divide by a negative number")
 

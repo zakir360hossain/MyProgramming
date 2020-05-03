@@ -1,6 +1,6 @@
 # Assert:
-# If given condition is true: compute
-# Else: Throw the written message
+# If given condition is true, compute the rest
+# Else: Throw the message
 
 def fac(n):
     assert n >= 0, "factorial number cannot be negative"
@@ -10,6 +10,6 @@ def fac(n):
         return n*fac(n-1)
 
 
-
+print(fac(-1))
 print(fac(4))
 

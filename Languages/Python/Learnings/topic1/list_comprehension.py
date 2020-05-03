@@ -2,20 +2,19 @@ import random
 
 squares = []
 # Without List Comprehension
-for i in range(1, 101):
-    squares.append(i**2)  # Double ** = Exponent
+for i in range(1, 10):
+    squares.append(i**2)
 print(squares)
 
 # With List Comprehension
-squares2 = [i**2 for i in range(1, 101)]
+squares2 = [i**2 for i in range(1, 10)]
 print(squares2)
 
-remainders_of_11 = [x**2 % 11 for x in range(1, 101)]
-print(remainders_of_11)
+remainders_of_3 = [x % 3 for x in range(1, 10)]
+print(remainders_of_3)
 
 movies = ['Star War', 'Casablanca', 'Green Mile', 'The Parent Trap', 'Shawshank Redemption',
           'Ganjana', 'Sanctuary', 'Gattaca', 'Selma']
-
 # Without List Comprehension
 movies_start_with_G = []
 for title in movies:
@@ -27,33 +26,22 @@ print(movies_start_with_G)
 movies_start_with_G = [title for title in movies if title.startswith('G')]
 print(movies_start_with_G)
 
-movies_with_year = [("Citizen Kane ", 1941), ("Spirited Away ", 2001), ("It's a Wonderful Life", 1946),
-                    ("Gattaca", 1997), ("NO Country for Old Men", 2007), ("Rear Window", 1954),
-                    ("The Lord of the Rings: The fellowship of the Rings", 2002), ("Groundhog Day", 1993 ),
-                    ("Close Encounters of the Third King", 1977), ("The Royal Tenenbaums", 2001), ("The Aviator", 2004),
-                    ("Raiders of the Lost Ark", 1981)]
 
-# Find movies that were released before 2000 using List Comprehension
-movies_before_2000 = [title for (title, year) in movies_with_year if year < 2000]
-print(movies_before_2000)
-
-# Find the possible Cartesian Product of four sets using List Comprehension
-set_A = [34, 45, 67, 56]
-set_B = [12, 33, 45, 14]
-set_C = [91, 25, 24, 11]
-set_D = [46, 99, 16, 10]
-cartesian_product = [(a, b, c, d) for a in set_A for b in set_B for c in set_C for d in set_D ]
+# Find the possible Cartesian Product of 2 list using List Comprehension
+A = [34, 45]
+B = [12, 33]
+cartesian_product = [(a, b) for a in A for b in B]
 print(cartesian_product)
 
-# Add the four sets into a new set (without List Comprehension)
-set_E = []
-for i in range(0, len(set_A)):
-    set_E.append(set_A[i] + set_B[i] + set_C[i] + set_D[i])
+# Add the 2 lists into a new one  (without List Comprehension)
+E = []
+for i in range(0, len(A)):
+    E.append(A[i] + B[i])
 
-print(set_E)
+print(E)
 
-# Add the four sets into a new set (With List Comprehension)
-summed_list = [(set_A[i]+set_B[i]+set_C[i]+set_D[i]) for i in range(len(set_A)) ]
+# Add the 2  into a new (With List Comprehension)
+summed_list = [(A[i]+B[i]) for i in range(len(A))]
 print(summed_list)
 
 

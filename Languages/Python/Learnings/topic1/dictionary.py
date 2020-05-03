@@ -16,7 +16,7 @@ for s in(student):
 for s in (student.values()):
 	print(s)
 	
-teacher = {101:"Anderson", 102:"DeLone", 103:"McCormick", 104:"Suleimann"} # simpler way to createa dict
+teacher = {101:"Anderson", 102:"DeLone", 103:"McCormick", 104:"Suleimann"} # simpler way to create a dict
 
 body = {"student": student, "teacher": teacher} # dictionary of dictionaries.
 print(body["teacher"])
