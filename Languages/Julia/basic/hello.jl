@@ -1,3 +1,0 @@
-
-println("Welcome to Julia")
-
