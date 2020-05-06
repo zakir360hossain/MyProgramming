@@ -1,2 +1,0 @@
-import PyQt5
-
