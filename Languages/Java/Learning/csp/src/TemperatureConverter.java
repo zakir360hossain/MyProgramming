@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/**
- * 
- */
 
 /**
  * @author Zakir Hossain September 5, 2019

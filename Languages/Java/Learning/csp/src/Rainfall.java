@@ -9,9 +9,6 @@ import java.util.*;
  */
 public class Rainfall {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 

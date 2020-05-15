@@ -1,7 +1,5 @@
 import java.util.*;
-/**
- * 
- */
+
 
 /**
  * @author 20hossainz December 28. 2018
@@ -13,8 +11,9 @@ import java.util.*;
  *  grade, if the grades are grouped (i.e.  20 students have a grade between 80-89, 9 students have a between 
  *  90-100,...  )
  *  When the teachers enter the data (grades and student frequency) the program will approximate the mean, 
- *  or the standard deviation, from the data. 
+ *  or the standard deviation, from the data.
  */
+
 public class Tutor {
 
 	public static void main(String[] args) {

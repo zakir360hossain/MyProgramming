@@ -1,9 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * 
- */
 
 /**
  * @author Zakir Hossain September 13, 2019

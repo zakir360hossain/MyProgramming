@@ -1,9 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * Follow the comments and fill in the appropriate code as described
- */
 
 /**
  * @author Zakir Hossain September 11, 2019

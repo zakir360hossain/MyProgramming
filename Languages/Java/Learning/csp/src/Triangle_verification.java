@@ -1,9 +1,7 @@
 import java.util.*;
 
 import javax.swing.plaf.synth.SynthSeparatorUI;
-/**
- * 
- */
+
 
 /**
  * @author 20hossainz Identify if it is a valid triangle by its sides
@@ -11,9 +9,6 @@ import javax.swing.plaf.synth.SynthSeparatorUI;
  */
 public class Triangle_verification {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// Define variable
 		Scanner s = new Scanner(System.in);
