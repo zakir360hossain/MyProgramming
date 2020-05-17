@@ -1,0 +1,13 @@
+"Parallelism is doing a lot of things at once"–––Rob Pike
+
+Parallelism is enabling multiple threads to be executed simultaneously.
+The component Scheduler in OS is responsible for assigning each thread to a core in the CPU, i.e main thread at core1,
+thread1 and thread2 at core2 and core3 respectively.
+
+Tools to enable parallelism:
+1. Threads
+2. ThreadPool:
+   -ExecutorService
+   -ForkJoinPool
+   -Custom ThreadPools (eg: Web Services)
+3. Requires more than 1 CPU cores.

@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /*
 A class is a type that a individual construct to represent a unique entity (object)
 A class can only extend to one other class because Java does not support multiple inheritance.
