@@ -13,6 +13,7 @@ public class VectorJ {
         Vector a = new Vector();
         a.add(12);
         a.add("Susan");
+        
         // with generic and capacity
         Vector<Integer> b = new Vector<>(30);
 

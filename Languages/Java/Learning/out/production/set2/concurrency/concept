@@ -1,0 +1,12 @@
+"Concurrency is about dealing with a lot of things at once" –––Rob Pike
+
+Concurrency is applied to safety and efficiency management when shared resources between
+threads are to be accessed/updated, or when multiple tasks need coordination.
+
+In Java, there are numerous tools to deal with concurrency:
+1. Locks/Synchronized
+2. Atomic Classes (eg: AtomicInteger, AtomicLong)
+3. Concurrent Data Structure (eg: ConcurrentHashMap, Blocking Queue)
+4. CompletableFuture (1.8)
+5. CountdownLatch / Phaser / CyclicBarrier / Semaphore etc.
+

@@ -2,210 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b611326-dd7e-4cfb-9064-cb1c87cc327c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/AbstractClassEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/ClassEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/InterfaceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/TypeInteraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/AnonymousInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/ComparatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/LambdaExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/collection/Definition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/collection/GoScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/generics/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/map/Definition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/Definition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/src/linkedlist/Ex1Define.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/src/vector/Ex1Define.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/operators/arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/operators/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/operators/bitwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/operators/identity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/operators/logical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/operators/membership.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/csp/src/Rainfall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/csp/src/Rainfall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/csp/src/Triangle_verification.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/csp/src/Triangle_verification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/csp/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/csp/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/AnimalAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/AnimalAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Balloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Balloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/BalloonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/BalloonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Banana.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Banana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/BirthdayBalloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/BirthdayBalloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/BirthdayCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/BirthdayCake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Breakfast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Breakfast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Cake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/CelebrateBalloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/CelebrateBalloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Cereal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Cereal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/CommercialJet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/CommercialJet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Corn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Corn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Dessert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Dessert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Dinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Dinner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Edible.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Edible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Flag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Flag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Flying.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Flying.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Glass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Glass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Golfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Golfer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/GraduateStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/GraduateStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Hailstone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Hailstone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/HappyBirthday.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/HappyBirthday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Lunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Lunch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Parallelogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Parallelogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Pasta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Pasta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Pie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Pie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/PrivatePlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/PrivatePlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Quadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Quadrilateral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Rectangle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Rectangle2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/RoastBeef.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/RoastBeef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/RoundBalloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/RoundBalloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/RunEdible.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/RunEdible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/ShapeBalloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/ShapeBalloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/ShowerCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/ShowerCake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/SquareBalloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/SquareBalloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/StudentAthlete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/StudentAthlete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/TestAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/TestAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/TestBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/TestBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/TestCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/TestCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/TestDessert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/TestDessert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/TestFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/TestFlag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/TestGlass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/TestGlass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/TestPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/TestPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/TestQuadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/TestQuadrilateral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/TestRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/TestRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/TestStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/TestStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Trapezoid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Trapezoid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/Yogurt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/Yogurt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/oop/src/golfer_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/practical/golfer_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Airplane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/AnimalAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Balloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/BalloonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Banana.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/BirthdayBalloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/BirthdayCake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Breakfast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Cake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/CelebrateBalloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Cereal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/CommercialJet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Corn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Dessert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Dinner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Edible.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Flag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Flying.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Glass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Golfer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/GraduateStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Hailstone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/HappyBirthday.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Lunch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Parallelogram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Pasta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Pie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/PrivatePlane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Quadrilateral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Rectangle2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/RoastBeef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/RoundBalloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/RunEdible.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/ShapeBalloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/ShowerCake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/SquareBalloon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/StudentAthlete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Team.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/TestAnimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/TestBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/TestCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/TestDessert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/TestFlag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/TestGlass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/TestPlane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/TestQuadrilateral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/TestRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/TestStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Trapezoid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/Yogurt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/oop/golfer_test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/generics/Container.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/generics/Container.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/generics/Container2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/generics/Container2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/generics/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set1/set1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set1/src/generics/Container.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set1/src/generics/Container2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set1/src/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/generics/Definition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/array/Set1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/array/baseball.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/array/Baseball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/array/basketball.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/array/Basketball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/bankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/BankTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/runnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/RunnerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/swimTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/SwimTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/temporal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/Temporal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/testWalker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/arraylist/TestWalker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/doublescriptedarray/double_scripted_array_ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/doublescriptedarray/DoubleScriptedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/doublescriptedarray/grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/doublescriptedarray/Grade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/doublescriptedarray/magic_square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/doublescriptedarray/MagicSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/doublescriptedarray/score.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/doublescriptedarray/Score.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/logic/Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/loop/asterisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/loop/Asterisk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/loop/distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/loop/Distance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/loop/fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/loop/Fraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/loop/gcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/loop/GCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/loop/gl_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/loop/GL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/loop/guess_game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/loop/GuessGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/loop/highest_grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/loop/HighestGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/loop/mathWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/loop/MathWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/methods/carpenterWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/methods/CarpenterWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/methods/statWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/methods/StatWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/recursion/binaryInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/recursion/BinaryInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/recursion/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/recursion/RecursionEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/recursion/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/recursion/RecursionEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/recursion/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/recursion/RecursionEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/recursion/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/recursion/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/recursion/gcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/recursion/GCDRecur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/recursion/problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/recursion/Problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/recursion/problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/recursion/Problem2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/string/stringEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/string/StringEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/string/stringManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/string/StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/AnnotationJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/SerializableJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/concurrency/ThreadLocalJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/InterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/Synchron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/src/fileHandling/FileHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/src/fileProperties/FileProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/META-INF/Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/BookTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/Chair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/Set1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/TestChair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/baseball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/basketball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Elective.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Swimmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/TestStudentElective.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Walker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/bankTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/runnerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/swimTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/temporal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/testWalker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/doublescriptedarray/double_scripted_array_ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/doublescriptedarray/grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/doublescriptedarray/magic_square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/doublescriptedarray/score.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/AnonymousInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/AnonymousInnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ComparableJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ComparableJ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ComparatorJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ComparatorJ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ConsumerJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ConsumerJ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/EnumJ$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/EnumJ$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/EnumJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/EnumJ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/Particle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/Particle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/Streams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/VectorJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/VectorJ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/all.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/all.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/bytearray.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/bytearray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/callable.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/callable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/classmethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/classmethod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/comparison_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/operators/comparison.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/delattr.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/delattr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/divmod.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/divmod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/getattr.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/getattr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/hasattr.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/hasattr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/isinstance.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/isinstance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/issubclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/issubclass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/iter.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/iter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/range.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/sorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/ternary_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/operators/ternary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic1/assertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/assertion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic1/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic1/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modularity/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modularity/arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_import/arithmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modularity/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modularity/packaging/module/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modularity/packaging/module/class_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_import/class_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modularity/packaging/module/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_import/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modularity/packaging/module/factorial_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_import/factorial_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modularity/use_arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_import/use_arithmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/definition" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/definition" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/deserialization/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/deserialize/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/deserialization/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/deserialize/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/ex1_data.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/ex1_data.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/player_data.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/player_data.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/serialization/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/serialize/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/serialization/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/serialize/player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,16 +90,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/local_import" />
       <recent name="$PROJECT_DIR$/basics" />
       <recent name="$PROJECT_DIR$/basics/operators" />
       <recent name="$PROJECT_DIR$/basics/builtins" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.assignment">
+  <component name="RunManager" selected="Python.factorial_test">
     <configuration name="arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -311,8 +170,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="factorial_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modularity/packaging/module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modularity/packaging/module/factorial_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.factorial_test" />
         <item itemvalue="Python.assignment" />
         <item itemvalue="Python.bitwise" />
         <item itemvalue="Python.arrays" />
@@ -333,6 +215,8 @@
       <workItem from="1588994678173" duration="1778000" />
       <workItem from="1588996519465" duration="4730000" />
       <workItem from="1589086536265" duration="427000" />
+      <workItem from="1590613150497" duration="392000" />
+      <workItem from="1590863079933" duration="781000" />
     </task>
     <servers />
   </component>
@@ -343,38 +227,50 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="240" y="45" key="#Plugins" timestamp="1590126871886">
+      <screen x="0" y="22" width="1280" height="751" />
+    </state>
+    <state x="240" y="45" key="#Plugins/0.22.1280.751@0.22.1280.751" timestamp="1590126871886" />
     <state x="328" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588996442112">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="328" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.800@0.0.1280.800" timestamp="1588996442112" />
-    <state width="1238" height="207" key="GridCell.Tab.0.bottom" timestamp="1589002865604">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="183" key="GridCell.Tab.0.bottom" timestamp="1590863864391">
+      <screen x="0" y="22" width="1280" height="750" />
     </state>
     <state width="1238" height="207" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589002865604" />
+    <state width="1238" height="183" key="GridCell.Tab.0.bottom/0.22.1280.750@0.22.1280.750" timestamp="1590863864391" />
     <state width="1143" height="184" key="GridCell.Tab.0.bottom/0.22.1280.751@0.22.1280.751" timestamp="1588724741960" />
-    <state width="1238" height="207" key="GridCell.Tab.0.center" timestamp="1589002865603">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="183" key="GridCell.Tab.0.center" timestamp="1590863864390">
+      <screen x="0" y="22" width="1280" height="750" />
     </state>
     <state width="1238" height="207" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1589002865603" />
+    <state width="1238" height="183" key="GridCell.Tab.0.center/0.22.1280.750@0.22.1280.750" timestamp="1590863864390" />
     <state width="1143" height="184" key="GridCell.Tab.0.center/0.22.1280.751@0.22.1280.751" timestamp="1588724741958" />
-    <state width="1238" height="207" key="GridCell.Tab.0.left" timestamp="1589002865602">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="183" key="GridCell.Tab.0.left" timestamp="1590863864389">
+      <screen x="0" y="22" width="1280" height="750" />
     </state>
     <state width="1238" height="207" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1589002865602" />
+    <state width="1238" height="183" key="GridCell.Tab.0.left/0.22.1280.750@0.22.1280.750" timestamp="1590863864389" />
     <state width="1143" height="184" key="GridCell.Tab.0.left/0.22.1280.751@0.22.1280.751" timestamp="1588724741958" />
-    <state width="1238" height="207" key="GridCell.Tab.0.right" timestamp="1589002865603">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="183" key="GridCell.Tab.0.right" timestamp="1590863864390">
+      <screen x="0" y="22" width="1280" height="750" />
     </state>
     <state width="1238" height="207" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1589002865603" />
+    <state width="1238" height="183" key="GridCell.Tab.0.right/0.22.1280.750@0.22.1280.750" timestamp="1590863864390" />
     <state width="1143" height="184" key="GridCell.Tab.0.right/0.22.1280.751@0.22.1280.751" timestamp="1588724741959" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1589001971651">
+    <state x="149" y="36" key="SettingsEditor" timestamp="1590863536126">
+      <screen x="0" y="22" width="1280" height="750" />
+    </state>
+    <state x="149" y="36" key="SettingsEditor/0.22.1280.750@0.22.1280.750" timestamp="1590863536126" />
+    <state x="149" y="36" key="SettingsEditor/0.22.1280.751@0.22.1280.751" timestamp="1590127068450" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1590613240326">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1589001971651" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1590613240326" />
+    <state x="305" y="138" width="670" height="635" key="search.everywhere.popup/0.22.1280.751@0.22.1280.751" timestamp="1590126840401" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Learning$bitwise.coverage" NAME="bitwise Coverage Results" MODIFIED="1589001515921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics/operators" />
-    <SUITE FILE_PATH="coverage/Learning$arrays.coverage" NAME="arrays Coverage Results" MODIFIED="1588724733386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
-    <SUITE FILE_PATH="coverage/Learning$assignment.coverage" NAME="assignment Coverage Results" MODIFIED="1589002563432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics/operators" />
+    <SUITE FILE_PATH="coverage/Learning$factorial_test.coverage" NAME="factorial_test Coverage Results" MODIFIED="1590863755919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modularity/packaging/module" />
   </component>
 </project>
