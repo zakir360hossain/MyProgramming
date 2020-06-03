@@ -1,4 +1,6 @@
-public class TypeConversion {
+package types;
+
+public class Converting {
     public static void main(String[] args) {
 
         //String to Integer conversion

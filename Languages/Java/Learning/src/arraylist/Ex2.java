@@ -46,7 +46,7 @@ public class Ex2 {
             }
         }
 
-        // Converting the temporary arrays (Array List) to array objects.
+        // types.Converting the temporary arrays (Array List) to array objects.
         // These are the final arrays, these can be used. Categorized arrays (from valueList array)
         Integer[] even_nums = new Integer[temp_even.size()];
         even_nums = temp_even.toArray(even_nums);
@@ -72,7 +72,7 @@ public class Ex2 {
         for (int i = valueList.length - 1; i >= 0; i--) {
             temp_reverse.add(valueList[i]);
         }
-        // Converting the List temp_reverse to array object
+        // types.Converting the List temp_reverse to array object
         Integer[] reversed_List = new Integer[temp_reverse.size()];
         reversed_List = temp_reverse.toArray(reversed_List);
 

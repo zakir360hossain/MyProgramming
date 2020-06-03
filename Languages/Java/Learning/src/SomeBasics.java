@@ -21,6 +21,11 @@ public class SomeBasics {
         Down casting is the opposite, casting a supertype to subtype.
         */
 
+        //Swapping values easily.
+        int a = 5;
+        int b = 6;
+        b=a+b- (a=b);
+        System.out.println(a+ " " +b);
 
 
 
