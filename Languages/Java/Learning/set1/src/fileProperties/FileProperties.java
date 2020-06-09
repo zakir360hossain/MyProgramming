@@ -9,7 +9,7 @@ public class FileProperties {
         //        Properties in file
         Properties p = new Properties();
         //Extension could have txt, etc.
-        OutputStream os = new FileOutputStream("src/fileProperties/content.properties");
+        OutputStream os = new FileOutputStream("set1/src/fileProperties/content.properties");
         p.setProperty("url", "localhost:3306/myDb");
         p.setProperty("username", "zakir");
         p.setProperty("password", "1234");

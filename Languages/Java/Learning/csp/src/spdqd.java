@@ -39,10 +39,6 @@ public class spdqd {
 		System.out.println("Modulus:" + modulus);
 		
 		// Print the answers
-		
-		
-		
-
 	}
 
 }

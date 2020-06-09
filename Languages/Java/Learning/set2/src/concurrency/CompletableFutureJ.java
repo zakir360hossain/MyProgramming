@@ -1,9 +1,5 @@
 package concurrency;
 
-import com.sun.tools.corba.se.idl.constExpr.Or;
-
-import java.util.concurrent.CompletableFuture;
-
 /*
 What is it used for?
 Performs possible asynchronous (non-blocking) computation and trigger dependant computations which could also be

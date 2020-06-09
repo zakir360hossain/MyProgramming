@@ -15,7 +15,7 @@ public class SyntaxCode {
 		Scanner input = new Scanner(System.in);
 		Random rn = new Random();
 
-		// 1. Declare and initilize a random integer between [1, 350]
+		// 1. Declare and initialize a random integer between [1, 350]
 		int randnum1 = 0;
 		randnum1 = (int) (Math.random() * 350) + 1;
 		System.out.println("Random number1: " + randnum1);

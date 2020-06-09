@@ -3,12 +3,8 @@ package multithreading;
 /*
  * It is nothing but doing multiple tasks at the same time. Every time when we write a java program, it uses one thread
  * (the main thread)
- *
- *
- *Thread implements Runnable. Thread's known subclass: ForkJoinWorkerThread
- *
- * Common methods of Thread:
- * Go to Oracle for detailed methods and other definition
+
+ * Oracle Doc: https://docs.oracle.com/javase/7/docs/api/java/lang/Thread.html
  */
 
 class Valediction extends Thread {

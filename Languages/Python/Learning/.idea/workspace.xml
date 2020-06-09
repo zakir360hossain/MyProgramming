@@ -2,65 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b611326-dd7e-4cfb-9064-cb1c87cc327c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/AnnotationJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/SerializableJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/concurrency/ThreadLocalJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/InterThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/Synchron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/src/fileHandling/FileHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/src/fileProperties/FileProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/META-INF/Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/BookTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/Chair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/Set1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/TestChair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/baseball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/array/basketball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Elective.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Swimmer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/TestStudentElective.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/Walker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/bankTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/runnerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/swimTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/temporal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/arraylist/testWalker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/doublescriptedarray/double_scripted_array_ex1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/doublescriptedarray/grade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/doublescriptedarray/magic_square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Java/doublescriptedarray/score.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/AnonymousInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/AnonymousInnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ComparableJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ComparableJ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ComparatorJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ComparatorJ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ConsumerJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/ConsumerJ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/EnumJ$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/EnumJ$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/EnumJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/EnumJ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/Particle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/Particle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/set1/Streams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/VectorJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/VectorJ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modularity/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modularity/arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_import/arithmetic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modularity/packaging/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modularity/packaging/module/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modularity/packaging/module/class_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_import/class_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modularity/packaging/module/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_import/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modularity/packaging/module/factorial_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_import/factorial_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modularity/use_arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_import/use_arithmetic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/definition" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/definition" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/deserialization/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/deserialize/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/deserialization/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/deserialize/player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/ex1_data.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/ex1_data.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/player_data.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/player_data.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/serialization/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/serialize/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic2/object_conversion/serialization/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/serialization/serialize/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/concurrency/Coroutines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/concurrency/ReadWriteLockJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/concurrency/ReentrantLockJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/concurrency/ThreadInterruption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set1/fileHandling/FileHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/fileHandling/FileHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set1/fileHandling/content.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/fileHandling/content.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set1/fileProperties/FileProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/fileProperties/FileProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set1/fileProperties/content.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/fileProperties/content.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set2/src/concurrency/CompletableFutureJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/concurrency/CompletableFutureJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/InterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/InterThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,6 +169,7 @@
       <workItem from="1589086536265" duration="427000" />
       <workItem from="1590613150497" duration="392000" />
       <workItem from="1590863079933" duration="781000" />
+      <workItem from="1591499288972" duration="62000" />
     </task>
     <servers />
   </component>

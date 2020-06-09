@@ -1,6 +1,5 @@
 package multithreading;
 
-import com.sun.tools.javah.Util;
 
 class Age {
     int age;

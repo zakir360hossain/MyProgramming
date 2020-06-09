@@ -6,7 +6,7 @@ import java.util.Properties;
 public class FileHandling {
     public static void main(String[] args) throws Exception {
 
-        File f = new File("src/fileHandling/content.txt");
+        File f = new File("set1/src/fileHandling/content.txt");
 
         FileOutputStream fos = new FileOutputStream(f);
         DataOutputStream dos = new DataOutputStream(fos);
