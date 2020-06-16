@@ -11,7 +11,6 @@ Problem: Fetch prices of products from different websites.
 
 import java.util.Collections;
 import java.util.HashSet;
-import java.util.Random;
 import java.util.Set;
 import java.util.concurrent.*;
 

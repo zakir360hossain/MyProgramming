@@ -9,7 +9,7 @@ How is it different from ES?:
 1. It deals with task which produces its own task aka ForkJoin
 2. Per-thread queueing: All the sub-tasks from a task will be installed on its own deque.
 3. Work-stealing: A thread helps another thread. If thread 1 still have jobs, and thread 0 is free, thread 0 will "steal"
-   some tasks from thread 1.
+   some tasks from thread 1 and get it done. In a way, it's like "helping"
 
 Ideal ForkJoinTasks:
 1. Avoid synchronization

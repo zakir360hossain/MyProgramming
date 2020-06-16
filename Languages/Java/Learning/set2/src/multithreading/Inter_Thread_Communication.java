@@ -63,7 +63,7 @@ class Consumer implements Runnable {
     }
 }
 
-public class InterThread {
+class InterThread {
     public static void main(String[] args) {
         Age a = new Age();
         new Producer(a);

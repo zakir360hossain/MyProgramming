@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e485f9b-42ae-49bb-81f2-5e057379dc26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/src/Employee.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Learning/Learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_2_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/Synchron.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set2/src/multithreading/Synchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/basics/enumerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/basics/enumerate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/basics/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/basics/exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/basics/operators/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/basics/operators/assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/mini_usage/Fibanocci with LRU.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/mini_usage/Fibonacci with LRU.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Learning/mini_usage/Fibanocci.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Learning/mini_usage/Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Learning-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Learning-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/src/class1.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/basics/match_expr.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/basics/match_expr.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +57,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.employeeMain">
+  <component name="RunManager" selected="Application.match_expr">
     <configuration name="Employee" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Employee" />
       <module name="oop" />
@@ -51,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="oop.Test" />
+    <configuration name="StringInter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="basics.StringInter" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,19 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trait" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="oop.Trait" />
-      <module name="Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="employeeMain" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="employeeMain" />
       <module name="oop" />
@@ -91,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="match_expr" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="basics.match_expr" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.match_expr" />
+        <item itemvalue="Application.StringInter" />
         <item itemvalue="Application.employeeMain" />
         <item itemvalue="Application.Employee" />
         <item itemvalue="Application.Trait (1)" />
-        <item itemvalue="Application.Trait" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +129,7 @@
       <workItem from="1588727031414" duration="496000" />
       <workItem from="1588729204337" duration="1355000" />
       <workItem from="1588730735118" duration="1440000" />
+      <workItem from="1592245263719" duration="334000" />
     </task>
     <servers />
   </component>
@@ -134,21 +149,25 @@
       <screen x="0" y="22" width="1280" height="751" />
     </state>
     <state x="563" y="109" width="439" height="476" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.22.1280.751@0.22.1280.751" timestamp="1588729146695" />
-    <state width="1013" height="184" key="GridCell.Tab.0.bottom" timestamp="1588732324187">
-      <screen x="0" y="22" width="1280" height="751" />
+    <state width="1208" height="183" key="GridCell.Tab.0.bottom" timestamp="1592245598699">
+      <screen x="0" y="22" width="1280" height="749" />
     </state>
+    <state width="1208" height="183" key="GridCell.Tab.0.bottom/0.22.1280.749@0.22.1280.749" timestamp="1592245598699" />
     <state width="1013" height="184" key="GridCell.Tab.0.bottom/0.22.1280.751@0.22.1280.751" timestamp="1588732324187" />
-    <state width="1013" height="184" key="GridCell.Tab.0.center" timestamp="1588732324186">
-      <screen x="0" y="22" width="1280" height="751" />
+    <state width="1208" height="183" key="GridCell.Tab.0.center" timestamp="1592245598698">
+      <screen x="0" y="22" width="1280" height="749" />
     </state>
+    <state width="1208" height="183" key="GridCell.Tab.0.center/0.22.1280.749@0.22.1280.749" timestamp="1592245598698" />
     <state width="1013" height="184" key="GridCell.Tab.0.center/0.22.1280.751@0.22.1280.751" timestamp="1588732324186" />
-    <state width="1013" height="184" key="GridCell.Tab.0.left" timestamp="1588732324186">
-      <screen x="0" y="22" width="1280" height="751" />
+    <state width="1208" height="183" key="GridCell.Tab.0.left" timestamp="1592245598697">
+      <screen x="0" y="22" width="1280" height="749" />
     </state>
+    <state width="1208" height="183" key="GridCell.Tab.0.left/0.22.1280.749@0.22.1280.749" timestamp="1592245598697" />
     <state width="1013" height="184" key="GridCell.Tab.0.left/0.22.1280.751@0.22.1280.751" timestamp="1588732324186" />
-    <state width="1013" height="184" key="GridCell.Tab.0.right" timestamp="1588732324187">
-      <screen x="0" y="22" width="1280" height="751" />
+    <state width="1208" height="183" key="GridCell.Tab.0.right" timestamp="1592245598698">
+      <screen x="0" y="22" width="1280" height="749" />
     </state>
+    <state width="1208" height="183" key="GridCell.Tab.0.right/0.22.1280.749@0.22.1280.749" timestamp="1592245598698" />
     <state width="1013" height="184" key="GridCell.Tab.0.right/0.22.1280.751@0.22.1280.751" timestamp="1588732324187" />
     <state x="93" y="22" key="SettingsEditor" timestamp="1588726420746">
       <screen x="0" y="22" width="1280" height="751" />

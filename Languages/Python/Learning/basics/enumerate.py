@@ -10,4 +10,4 @@ aList = [23, 54, 56, 67]
 
 
 # To access and manipulate with indices.
-for i, num in enumerate(aList): print(aList[i])
+for index, elem in enumerate(aList): print(aList[index], elem)
