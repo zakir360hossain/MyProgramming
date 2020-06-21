@@ -1,5 +1,6 @@
 /*
 Lambda Expression are often used to implement bodies of an interface.
+Conceptually, lambda are shorthand for Anonymous Inner class.
  */
 
 import java.util.ArrayList;

@@ -1,0 +1,26 @@
+Selectors:
+    -Multiple Element selector
+    -Descendent selector
+    -Child selectors
+    -Adjacent Sibling selector
+    -Attribute selector
+    -Pseud-class selector
+    -Pseud-element selector
+
+Responsive Design:
+    -viewpoint
+    -Media Query
+    -Flex box
+    -Grid
+
+
+Sass, Syntactically Awesome Style Sheet (a superscript CSS)
+    -Defines variables to avoid design change repetition
+    -Need to compile to convert to CSS, however automatic compiling can
+     be done with "watch"
+    -Recompilation is not needed when deployed to GitHub
+    -Support nesting design
+    -Inheritance, employs specific design to sub-element of a generically
+     designed super-group
+
+Bootstrap

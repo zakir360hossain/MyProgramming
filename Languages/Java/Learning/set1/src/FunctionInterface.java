@@ -7,6 +7,8 @@ Predefined Functional Interfaces: Predicate, Function, Consumer, Supplier
 
 Primitive Type Functional Interfaces: IntPredicate, LongPredicate, DoublePredicate,
 UnaryOperator, BinaryOperator
+
+Often used functional interfaces: Runnable, Callable, Comparator
  */
 public class FunctionInterface {
 

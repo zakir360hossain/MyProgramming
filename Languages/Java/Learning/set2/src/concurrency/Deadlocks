@@ -1,0 +1,13 @@
+Deadlocks occur when a thread (A) is waiting to acquire a lock that is being
+held by another thread (B) and vice versa.
+
+Can deadlocks be detected at compile time easily? NO
+
+However, there are tools to detect them at runtime:
+1. kill -3 id (from console
+2. JStack id (provided by Java)
+3. ThreadMXBean (A Java API)
+
+How to avoid deadlocks?:
+1. provide a timeout for lock acquisition
+2. Maintain consistence in the ordering of locks

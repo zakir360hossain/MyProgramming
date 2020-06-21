@@ -1,0 +1,4 @@
+
+Tags: https://www.tutorialrepublic.com/html-reference/html5-tags.php
+  
+input type: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
