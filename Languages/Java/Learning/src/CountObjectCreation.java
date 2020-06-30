@@ -5,7 +5,7 @@ public class CountObjectCreation {
         Plants hickory = new Plants();
         Plants palm = new Plants();
 
-        System.out.println(Plants.cOjbects());
+        System.out.println(Plants.c_objects());
         System.out.println(willow.objIndex());
         System.out.println(hickory.objIndex());
         System.out.println(palm.objIndex());
@@ -22,7 +22,7 @@ class Plants {
         objectCounter++;
         objectIndex = objectCounter;
     }
-    public static int cOjbects(){
+    public static int c_objects(){
         return objectCounter;
     }
     public int objIndex(){
