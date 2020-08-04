@@ -2,7 +2,7 @@
 
 # Not Context manager.
 file  = open("file.txt", "w")
-# Here w is write method, which means it will create the file if does not exist. 
+# Here w is write methods, which means it will create the file if does not exist.
 file.write("Hello")
 file.close()
 
@@ -11,7 +11,7 @@ file.close()
 # On way to come around this:
 ## (Before context manager)
 file = open("file.txt", "r")
-	# Here r is read method, which means the file is already existed. Will not create if does not exist
+	# Here r is read methods, which means the file is already existed. Will not create if does not exist
 	# and will throw an error
 try:
 	file.write("Hey!")

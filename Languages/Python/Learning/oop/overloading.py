@@ -21,7 +21,7 @@ except Exception:
 multiply(2, 4, 5)  # Correct
 
 
-# Overloading is only possible for method/constructor if the method is not rewritten and one or more statements 
+# Overloading is only possible for methods/constructor if the methods is not rewritten and one or more statements
 # are put to behave differently.
 
 class Number:

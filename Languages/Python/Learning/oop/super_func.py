@@ -1,4 +1,4 @@
-# It allows to call a method from the parent class.
+# It allows to call a methods from the parent class.
 
 class Vehicle:
     """This is the parent class"""
@@ -19,8 +19,8 @@ class Car(Vehicle):
         print("I am in motion")
         # Method from the parent class
         super().stop()
-        # start and stop are method from the parent class Vehicle, and using the super method, those methods are
-        # being called in a method that belongs to the chil class Car.
+        # start and stop are methods from the parent class Vehicle, and using the super methods, those methods are
+        # being called in a methods that belongs to the chil class Car.
 
 
 bmw = Car()

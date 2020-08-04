@@ -12,7 +12,7 @@ class Fruit:
 
 class Orange(Fruit):
     def __init__(self):
-        super().__init__()  # super() allows to call method from the parent class.
+        super().__init__()  # super() allows to call methods from the parent class.
         global x
         x += 10
         print("I am an Orange")

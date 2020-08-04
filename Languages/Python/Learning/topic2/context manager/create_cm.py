@@ -24,7 +24,7 @@ with File("file2.txt", "w") as file2:
 
 
 # raise Exception()
-# Even though a raise exception is being occurred, it still executes the exit method.
+# Even though a raise exception is being occurred, it still executes the exit methods.
 # If there is any other error besides Exception, the error will still be printed.
 # Such as raise FileExistsError () => this will give the error.
 

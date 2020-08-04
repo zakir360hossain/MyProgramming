@@ -13,10 +13,10 @@ class Ex1:
         self._b = 123  # This variable is a protected member, should not be accessed
         self.__c = 123  # This is variable is a fully private, cannot be accessed
 
-    def _func1(self, something):  # This method is a protected member, should not be accessed
+    def _func1(self, something):  # This methods is a protected member, should not be accessed
         self.something = something
 
-    def __func2(self, something):  # This is method is a fully private, cannot be accessed
+    def __func2(self, something):  # This is methods is a fully private, cannot be accessed
         self.something = something
 
 

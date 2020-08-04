@@ -19,7 +19,7 @@ person1 = Person()
 person2 = Person()
 
 person1.update()
-# How does the update method know that person1 is the one whose age is changing, not person2? Because of self.
+# How does the update methods know that person1 is the one whose age is changing, not person2? Because of self.
 # self is the indicator of the instance, which instance we are dealing with.
 
 if person1.compare_age(person2):
@@ -27,4 +27,4 @@ if person1.compare_age(person2):
 
 else:
     print("They do not have the same age")
-# Here person1 become the self for method compare_age. self indicates that person1 is being compared to person2
+# Here person1 become the self for methods compare_age. self indicates that person1 is being compared to person2

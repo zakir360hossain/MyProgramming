@@ -1,6 +1,6 @@
 # Checks if an object is callable
-# The built-in callable() method checks if the argument is either of the two:
-# 1. Is it an instance of a class with a __call__ method?
+# The built-in callable() methods checks if the argument is either of the two:
+# 1. Is it an instance of a class with a __call__ methods?
 # 2. Is it of a type which indicates callability such as in functions, methods?
 
 

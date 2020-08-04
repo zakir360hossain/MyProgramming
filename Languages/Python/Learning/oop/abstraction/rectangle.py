@@ -1,4 +1,4 @@
-from topic2.abstraction.shapes import Shape
+from oop.abstraction.shapes import Shape
 
 
 class Rectangle(Shape):

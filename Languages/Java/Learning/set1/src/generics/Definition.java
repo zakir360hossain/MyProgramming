@@ -46,7 +46,7 @@ class Container2<T extends Number> {
         System.out.println(value.getClass().getName());
     }
 
-    // Syntax when the type of ArrayList ('?) is to be a sub_type of T.
+    // Syntax when the type of ArrayList (?) is to be a sub_type of T.
 // If T is Number, than obj could be Integer, Double; thus the '?'
     public void ALDemo(ArrayList<? extends T> obj) {
     }
@@ -67,16 +67,13 @@ public class Definition {
 
         // T is Integer
         Container<Integer> B = new Container<>();
-        B.setValue(101); // No other class type then Integer.
+        B.setValue(101); // No other type then Integer.
         B.show();
 
-        // T is type of student
-        // Generic.Container<Student> st = new Generic.Container<Student>(); This is possible, if a Student class existed.
-
-        // Even though Number is extended to Generic.Container, it can still declare T to be Number
+        //Now, C can be any time under Number
         Container<Number> C = new Container<>();
         C.setValue(23.34);
-
+        C.setValue(34.56f);
 
         // T is Number
         Container2<Number> D = new Container2<>();
@@ -86,16 +83,13 @@ public class Definition {
         D.show();
 
         // '?' becomes Integer, which can obviously be a sub_type of T, given
-        // that T is Number now.
+        // that T is Number.
         D.ALDemo(new ArrayList<Integer>());
 
         // T is Float
         Container2<Float> E = new Container2<>();
         E.value = 23.3f;
         E.show();
-
-        //This is not possible. Type has to be numeric.
-        // *Generic.Container<Student> st = new Generic.Container<Student>();
 
         //'?' becomes Number, which can be a super type of Float.
         E.ALDemo2(new ArrayList<Number>());

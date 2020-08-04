@@ -1,77 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8b611326-dd7e-4cfb-9064-cb1c87cc327c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/CountObjectCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/CountObjectCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/FieldTrip.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/FieldTrip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/Fraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/LinkedListJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/LinkedListJ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/LogicExampl1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/LogicExampl1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/LogicExample2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/LogicExample2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/META-INF/Learning.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/Plants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/Plants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/SkiTrip.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/SkiTrip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/SomeBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/SomeBasics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/Strings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/SwitchCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/TypeConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/VectorJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/VectorJ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/Baseball.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/Baseball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/Basketball.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/Basketball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/BookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/BookTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/Chair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/Chair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/TestChair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/array/TestChair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Bank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/BankTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/BankTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Definition$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Definition$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Definition.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Definition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Elective.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Elective.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Ex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/RunnerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/RunnerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/SwimTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/SwimTeam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Swimmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Swimmer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Temporal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Temporal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/TestStudentElective.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/TestStudentElective.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/TestWalker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/TestWalker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Walker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/arraylist/Walker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/doublescriptedarray/DoubleScriptedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/doublescriptedarray/DoubleScriptedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/doublescriptedarray/Grade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/doublescriptedarray/Grade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/doublescriptedarray/MagicSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/doublescriptedarray/MagicSquare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/doublescriptedarray/Score.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/doublescriptedarray/Score.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/fileHandling/FileHandling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/fileHandling/content.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/fileProperties/FileProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/fileProperties/content.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/Asterisk.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/Asterisk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/Distance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/Distance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/GCD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/GL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/GL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/GuessGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/GuessGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/HighestGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/HighestGrade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/MathWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/loop/MathWork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/math_op.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/math_op.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/methods/CarpenterWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/methods/CarpenterWork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/methods/StatWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/methods/StatWork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/BinaryInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/BinaryInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/GCDRecur.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/GCDRecur.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/Problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/Problem1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/Problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/Problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/RecursionEx1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/RecursionEx1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/RecursionEx2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/RecursionEx2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/RecursionEx3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/recursion/RecursionEx3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/t_shirts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/t_shirts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/tutoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/tutoring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/types/Converting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/types/Converting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/types/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/out/production/Learning/types/Strings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/src/CountObjectCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/src/CountObjectCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/set1/src/generics/Definition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/set1/src/generics/Definition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/builtins/bytearray.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/bytearray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/builtins/callable.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/builtins/callable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frameworks/flask/app1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/arg_and_kwarg.py" beforeDir="false" afterPath="$PROJECT_DIR$/arg_and_kwarg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/argumentparser.py" beforeDir="false" afterPath="$PROJECT_DIR$/argumentparser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/classes/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classes/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/classes/fruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classes/fruit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/classes/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classes/init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/classes/planet.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classes/planet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/classes/self.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/classes/self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/encryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/encryption.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/filtering.py" beforeDir="false" afterPath="$PROJECT_DIR$/filtering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/functions_argument.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions_argument.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/list_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/method/non-parameterized.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/method/parameterized.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/method/set_get_del.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/methods/set_get_del.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/os_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/os_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/property/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/property/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/property/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/property/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/property/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/property/person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/scope.py" beforeDir="false" afterPath="$PROJECT_DIR$/scope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/sortingAlg/bubble.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlg/bubble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/sortingAlg/heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlg/heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/sortingAlg/insertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlg/insertion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/sortingAlg/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlg/merge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/sortingAlg/quick.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlg/quick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/sortingAlg/selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlg/selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/switch_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/switch_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic1/zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/hierarchical/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Inheritance/hierarchical.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/hybrid/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Inheritance/hybrid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/mro.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/mro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/multilevel/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Inheritance/multilevel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/multiple/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Inheritance/multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/overloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/overriding.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/overriding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/same_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Inheritance/order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Inheritance/simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/single/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Inheritance/single.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/Inheritance/super_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/super_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/abstraction/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/abstraction/circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/abstraction/define" beforeDir="false" afterPath="$PROJECT_DIR$/oop/abstraction/define" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/abstraction/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/abstraction/simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/abstraction/rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/abstraction/rectangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/abstraction/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/abstraction/shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/context manager/create_cm.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/context manager/create_cm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/context manager/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/context manager/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/duck_typing/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/duck_typing/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/encapsulation/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/encapsulation/simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/encapsulation/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/encapsulation/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/iterators/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/iterators/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/polymorphism/define.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/polymorphism/define.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/polymorphism/overloading_poly.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/polymorphism/overloading_poly.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topic2/polymorphism/overriding_poly.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/polymorphism/overriding_poly.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,18 +111,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/local_import" />
-      <recent name="$PROJECT_DIR$/basics" />
-      <recent name="$PROJECT_DIR$/basics/operators" />
-      <recent name="$PROJECT_DIR$/basics/builtins" />
+      <recent name="$PROJECT_DIR$/oop" />
+      <recent name="$PROJECT_DIR$/oop/Inheritance" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/frameworks" />
+      <recent name="$PROJECT_DIR$/local_import" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.enumerate">
+  <component name="RunManager" selected="Python.set_get_del">
     <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,28 +144,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/operators/assignment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bitwise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/operators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/operators/bitwise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,13 +218,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="set_get_del" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop/methods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/methods/set_get_del.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.set_get_del" />
         <item itemvalue="Python.enumerate" />
         <item itemvalue="Python.assignment" />
         <item itemvalue="Python.exception" />
         <item itemvalue="Python.factorial_test" />
-        <item itemvalue="Python.bitwise" />
       </list>
     </recent_temporary>
   </component>
@@ -262,11 +277,26 @@
       <workItem from="1593233197203" duration="286000" />
       <workItem from="1593233497029" duration="87000" />
       <workItem from="1593234965806" duration="21000" />
+      <workItem from="1593746721249" duration="1725000" />
+      <workItem from="1594092506102" duration="4262000" />
+      <workItem from="1596254823845" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -278,38 +308,66 @@
     <state x="240" y="45" key="#Plugins/0.22.1280.751@0.22.1280.751" timestamp="1590126871886" />
     <state x="270" y="48" key="#Plugins/0.23.1440.832@0.23.1440.832" timestamp="1593234984043" />
     <state x="270" y="48" width="961" height="704" key="#Plugins/0.23.1440.833@0.23.1440.833" timestamp="1593233484074" />
+    <state x="533" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1594093823016">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="533" y="164" key="#com.intellij.ide.util.MemberChooser/0.23.1440.836@0.23.1440.836" timestamp="1594093823016" />
     <state x="328" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588996442112">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="328" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.800@0.0.1280.800" timestamp="1588996442112" />
-    <state width="1238" height="182" key="GridCell.Tab.0.bottom" timestamp="1591724107578">
-      <screen x="0" y="22" width="1280" height="749" />
+    <state width="1398" height="87" key="GridCell.Tab.0.bottom" timestamp="1594096809457">
+      <screen x="0" y="23" width="1440" height="836" />
     </state>
+    <state width="1440" height="233" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1594096732448">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="233" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1594096732448" />
     <state width="1238" height="207" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589002865604" />
+    <state width="1440" height="233" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594096754703" />
     <state width="1238" height="182" key="GridCell.Tab.0.bottom/0.22.1280.749@0.22.1280.749" timestamp="1591724107578" />
     <state width="1238" height="183" key="GridCell.Tab.0.bottom/0.22.1280.750@0.22.1280.750" timestamp="1590863864391" />
     <state width="1143" height="184" key="GridCell.Tab.0.bottom/0.22.1280.751@0.22.1280.751" timestamp="1588724741960" />
-    <state width="1238" height="182" key="GridCell.Tab.0.center" timestamp="1591724107576">
-      <screen x="0" y="22" width="1280" height="749" />
+    <state width="1398" height="87" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1594096809457" />
+    <state width="1398" height="87" key="GridCell.Tab.0.center" timestamp="1594096809456">
+      <screen x="0" y="23" width="1440" height="836" />
     </state>
+    <state width="1440" height="233" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1594096732447">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="233" key="GridCell.Tab.0.center.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1594096732447" />
     <state width="1238" height="207" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1589002865603" />
+    <state width="1440" height="233" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594096754548" />
     <state width="1238" height="182" key="GridCell.Tab.0.center/0.22.1280.749@0.22.1280.749" timestamp="1591724107576" />
     <state width="1238" height="183" key="GridCell.Tab.0.center/0.22.1280.750@0.22.1280.750" timestamp="1590863864390" />
     <state width="1143" height="184" key="GridCell.Tab.0.center/0.22.1280.751@0.22.1280.751" timestamp="1588724741958" />
-    <state width="1238" height="182" key="GridCell.Tab.0.left" timestamp="1591724107576">
-      <screen x="0" y="22" width="1280" height="749" />
+    <state width="1398" height="87" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1594096809456" />
+    <state width="1398" height="87" key="GridCell.Tab.0.left" timestamp="1594096809456">
+      <screen x="0" y="23" width="1440" height="836" />
     </state>
+    <state width="1440" height="233" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1594096732446">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="233" key="GridCell.Tab.0.left.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1594096732446" />
     <state width="1238" height="207" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1589002865602" />
+    <state width="1440" height="233" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594096754545" />
     <state width="1238" height="182" key="GridCell.Tab.0.left/0.22.1280.749@0.22.1280.749" timestamp="1591724107576" />
     <state width="1238" height="183" key="GridCell.Tab.0.left/0.22.1280.750@0.22.1280.750" timestamp="1590863864389" />
     <state width="1143" height="184" key="GridCell.Tab.0.left/0.22.1280.751@0.22.1280.751" timestamp="1588724741958" />
-    <state width="1238" height="182" key="GridCell.Tab.0.right" timestamp="1591724107577">
-      <screen x="0" y="22" width="1280" height="749" />
+    <state width="1398" height="87" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1594096809456" />
+    <state width="1398" height="87" key="GridCell.Tab.0.right" timestamp="1594096809457">
+      <screen x="0" y="23" width="1440" height="836" />
     </state>
+    <state width="1440" height="233" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1594096732447">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="233" key="GridCell.Tab.0.right.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1594096732447" />
     <state width="1238" height="207" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1589002865603" />
+    <state width="1440" height="233" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594096754701" />
     <state width="1238" height="182" key="GridCell.Tab.0.right/0.22.1280.749@0.22.1280.749" timestamp="1591724107577" />
     <state width="1238" height="183" key="GridCell.Tab.0.right/0.22.1280.750@0.22.1280.750" timestamp="1590863864390" />
     <state width="1143" height="184" key="GridCell.Tab.0.right/0.22.1280.751@0.22.1280.751" timestamp="1588724741959" />
+    <state width="1398" height="87" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1594096809457" />
     <state x="168" y="39" key="SettingsEditor" timestamp="1593229113829">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -320,6 +378,10 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="601" y="290" key="cloudConfig.SelfSettingsDialog/0.23.1440.832@0.23.1440.832" timestamp="1593228152370" />
+    <state x="507" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594092552401">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="507" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.836@0.23.1440.836" timestamp="1594092552401" />
     <state x="343" y="152" width="754" height="704" key="search.everywhere.popup" timestamp="1593234973067">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -330,8 +392,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning$factorial_test.coverage" NAME="factorial_test Coverage Results" MODIFIED="1590863755919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modularity/packaging/module" />
-    <SUITE FILE_PATH="coverage/Learning$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1591723910081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/Learning$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1593748338110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
     <SUITE FILE_PATH="coverage/Learning$exception.coverage" NAME="exception Coverage Results" MODIFIED="1591723133690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
     <SUITE FILE_PATH="coverage/Learning$assignment.coverage" NAME="assignment Coverage Results" MODIFIED="1591723233187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics/operators" />
+    <SUITE FILE_PATH="coverage/Learning$set_get_del.coverage" NAME="set_get_del Coverage Results" MODIFIED="1594096732432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/methods" />
   </component>
 </project>

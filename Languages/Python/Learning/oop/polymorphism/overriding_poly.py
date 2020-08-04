@@ -8,7 +8,7 @@ class PNC(Bank):
         return 0.09
 
 
-# Here, the method ratio_of_interest is present in both parent and child class, but doing different things
+# Here, the methods ratio_of_interest is present in both parent and child class, but doing different things
 
 # returns 0.06
 americanBank = Bank()

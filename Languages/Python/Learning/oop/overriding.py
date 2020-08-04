@@ -1,6 +1,6 @@
 # Overriding => having 2 methods with the same name but doing different things
 
-# A subclass changes the functionality of a method that is in the parent classes, same name.
+# A subclass changes the functionality of a methods that is in the parent classes, same name.
 class A:
     name = "Hello"
 

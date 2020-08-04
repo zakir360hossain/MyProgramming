@@ -26,7 +26,7 @@ mac.code(ide)
 
 # let say 
 ide = myEditor() 
-# Will the type of the ide change? NO, because the execute method in both classes does something very
+# Will the type of the ide change? NO, because the execute methods in both classes does something very
 # very similar. So, if something behaves like a duck, it is a duck. 
 mac2  = Laptop()
 mac2.code(ide)

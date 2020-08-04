@@ -1,4 +1,4 @@
-# The property decorator helps to call a method like an attribute. i.e instead of 'email()', just 'email' will work
+# The property decorator helps to call a methods like an attribute. i.e instead of 'email()', just 'email' will work
 
 class Employee:
     def __init__(self, fn, ln):
