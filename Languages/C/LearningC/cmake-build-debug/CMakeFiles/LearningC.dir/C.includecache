@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zakirhossain/Documents/Code/MyProgramming/Languages/C/LearningC/functions.h
+
+/Users/zakirhossain/Documents/Code/MyProgramming/Languages/C/LearningC/main.c
+stdio.h
+-
+stdlib.h
+-
+functions.h
+/Users/zakirhossain/Documents/Code/MyProgramming/Languages/C/LearningC/functions.h
+types_and_format_specifiers.h
+/Users/zakirhossain/Documents/Code/MyProgramming/Languages/C/LearningC/types_and_format_specifiers.h
+
+/Users/zakirhossain/Documents/Code/MyProgramming/Languages/C/LearningC/types_and_format_specifiers.h
+stdio.h
+-
+
