@@ -1,10 +1,18 @@
 import java.time.LocalDateTime;
 
 // Primary Constructor is already defined when the properties are inside the parenthesis
-class MessageCard(var body: String, val time : LocalDateTime = LocalDateTime.now()) {
+class MessageCard(var body: String) {
     var like : Boolean = false
     var love : Boolean = false
+    var haha: Boolean = false
 
+    constructor(body: String, like: Boolean, love: Boolean, haha: Boolean):
+            this(body){
+        this.body = body
+        this.like = like
+        this.love = love
+        this.haha = haha
+    }
     fun like(){this.like = true}
     fun love(){this.love = true}
     fun isLiked(): Boolean {return this.like}
@@ -25,5 +33,5 @@ fun main(args: Array<String>) {
         false
 
     println(isBoth)
-    println(m1.time.month)
+
 }
