@@ -1,11 +1,11 @@
 
 
 fun main(args: Array<String>) {
-    val a = Alien()
+    val a = Person()
     a.skill = "Java"
     a.show()
 
-    val b = Alien()
+    val b = Person()
     b.skill = "Kotlin"
 
     val c = b.add(a)
@@ -14,14 +14,14 @@ fun main(args: Array<String>) {
 }
 //A third person will have both skills
 //extension function.
-fun Alien.add(a: Alien):Alien{
-    val newAlien  = Alien()
-    newAlien.skill = this.skill + a.skill
-    return newAlien
+fun Person.add(a: Person):Person{
+    val newPerson  = Person()
+    newPerson.skill = this.skill + a.skill
+    return newPerson
 }
 
 
-class Alien{
+class Person{
     var skill : String = ""
 
     fun show(){

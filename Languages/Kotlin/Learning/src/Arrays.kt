@@ -7,7 +7,7 @@ fun main(args: Array<String>) {
         println(elem)
     }
 
-    //step -> incremental step
+    //step -> incremental
     for (elem in nums step 2){
         println(elem)
     }
@@ -15,7 +15,7 @@ fun main(args: Array<String>) {
     val nums2 = 10 downTo 1
     println(nums2.count())
 
-    val nums3 = 1 until 16 // does not include 15
+    val nums3 = 1 until 16 // does not include 16
     for ((i,elem) in nums3.withIndex()){
         println("$i  :  $elem")
     }

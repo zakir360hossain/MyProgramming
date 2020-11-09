@@ -6,7 +6,6 @@ fun main(args: Array<String>) {
 
     //Switch cases
     val num : Int = ((Math.random())*4).toInt()
-
     println(num)
     val numberGenerated = when(num)
     {

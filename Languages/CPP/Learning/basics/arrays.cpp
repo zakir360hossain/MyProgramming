@@ -4,8 +4,8 @@ using namespace std;
 int main(){
 
      int arr[10];
-     int arr2[10][12];
-     int arr3[2][2][2];
+     int arr2[10][12]; //2x2
+     int arr3[2][2][2]; // 3x3
 
      float arr4[2] = {3, 5};
      int arr5[2][2] = {{4, 5}, {5, 6}};
