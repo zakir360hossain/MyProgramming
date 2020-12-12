@@ -21,3 +21,6 @@ def names(name):
 name_list2 = ['Jack', 'Zack', 'Monica', 'Soondar', 'shaker']
 filtered_name = list(filter(names, name_list2))
 print(filtered_name)
+
+import platform
+print(platform.python_version())

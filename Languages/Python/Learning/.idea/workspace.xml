@@ -20,33 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b611326-dd7e-4cfb-9064-cb1c87cc327c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Rust/Learning/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Rust/Learning/src/basics/variables.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Rust/Learning/src/test.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CPP/Learning/basics/arrays.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPP/Learning/basics/arrays.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CPP/Learning/basics/input_output.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPP/Learning/basics/input_output.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CPP/Learning/basics/loops.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../CPP/Learning/basics/loops.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CPP/Learning/oop/structure.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CPP/Learning/set1/vector.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Kotlin/Learning/src/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/Learning/src/Arrays.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Kotlin/Learning/src/Basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/Learning/src/Basics.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Kotlin/Learning/src/Extension_Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin/Learning/src/Extension_Function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/RSA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/havel_hakimi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_features/3.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platform_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tempoUse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortingAlg/bubble.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/bubble_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortingAlg/heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/heap_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortingAlg/insertion.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/insertion_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortingAlg/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/merge_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortingAlg/quick.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/quick_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortingAlg/selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/selection_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topic2/lemmatization/simpleEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic2/lemmatization/simpleEx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Rust/Learning/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rust/Learning/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Rust/Learning/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rust/Learning/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Rust/Learning/target/debug/learning" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rust/Learning/target/debug/learning" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Rust/Learning/target/debug/learning.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rust/Learning/target/debug/learning.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Rust/Learning/target/debug/learning.dSYM" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rust/Learning/target/debug/learning.dSYM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filtering.py" beforeDir="false" afterPath="$PROJECT_DIR$/filtering.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +79,8 @@
       <recent name="$PROJECT_DIR$/local_import" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.set_get_del">
-    <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.platform_module">
+    <configuration name="3.9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,12 +88,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new_features" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/operators/assignment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_features/3.9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RSA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,12 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/enumerate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/RSA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="filtering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,12 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/exception.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filtering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="factorial_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="havel_hakimi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,12 +154,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modularity/packaging/module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modularity/packaging/module/factorial_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/havel_hakimi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set_get_del" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="platform_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,12 +176,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop/methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/methods/set_get_del.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/platform_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.set_get_del" />
-        <item itemvalue="Python.enumerate" />
-        <item itemvalue="Python.assignment" />
-        <item itemvalue="Python.exception" />
-        <item itemvalue="Python.factorial_test" />
+        <item itemvalue="Python.platform_module" />
+        <item itemvalue="Python.filtering" />
+        <item itemvalue="Python.3.9" />
+        <item itemvalue="Python.RSA" />
+        <item itemvalue="Python.havel_hakimi" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +231,14 @@
       <workItem from="1594092506102" duration="4262000" />
       <workItem from="1596254823845" duration="27000" />
       <workItem from="1604882862612" duration="1792000" />
+      <workItem from="1604889768254" duration="4146000" />
+      <workItem from="1605064777077" duration="4000" />
+      <workItem from="1606967707964" duration="224000" />
+      <workItem from="1606968852494" duration="1876000" />
+      <workItem from="1607298531235" duration="1359000" />
+      <workItem from="1607302148130" duration="772000" />
+      <workItem from="1607305220184" duration="297000" />
+      <workItem from="1607394450901" duration="534000" />
     </task>
     <servers />
   </component>
@@ -270,16 +261,60 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="80" key="SettingsEditor" timestamp="1604882941969">
-      <screen x="0" y="23" width="1440" height="839" />
+    <state x="507" y="202" key="FileChooserDialogImpl" timestamp="1607394566811">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="507" y="202" key="FileChooserDialogImpl/0.23.1440.840@0.23.1440.840" timestamp="1607394566811" />
+    <state width="1379" height="174" key="GridCell.Tab.0.bottom" timestamp="1607394989815">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="969" height="175" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1604894268588" />
+    <state width="1379" height="174" key="GridCell.Tab.0.bottom/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1606971918525" />
+    <state width="1379" height="174" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1607394989815" />
+    <state width="1379" height="174" key="GridCell.Tab.0.center" timestamp="1607394989815">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="969" height="175" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1604894268587" />
+    <state width="1379" height="174" key="GridCell.Tab.0.center/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1606971918524" />
+    <state width="1379" height="174" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1607394989815" />
+    <state width="1379" height="174" key="GridCell.Tab.0.left" timestamp="1607394989815">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="969" height="175" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1604894268587" />
+    <state width="1379" height="174" key="GridCell.Tab.0.left/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1606971918524" />
+    <state width="1379" height="174" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1607394989815" />
+    <state width="1379" height="174" key="GridCell.Tab.0.right" timestamp="1607394989815">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="969" height="175" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1604894268587" />
+    <state width="1379" height="174" key="GridCell.Tab.0.right/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1606971918524" />
+    <state width="1379" height="174" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1607394989815" />
+    <state x="221" y="80" key="SettingsEditor" timestamp="1607394986581">
+      <screen x="0" y="23" width="1440" height="840" />
     </state>
     <state x="221" y="80" key="SettingsEditor/0.23.1440.839@0.23.1440.839" timestamp="1604882941969" />
+    <state x="221" y="80" key="SettingsEditor/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1606971857784" />
+    <state x="221" y="80" key="SettingsEditor/0.23.1440.840@0.23.1440.840" timestamp="1607394986581" />
+    <state x="422" y="23" width="596" height="839" key="find.popup" timestamp="1604889820450">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="422" y="23" width="596" height="839" key="find.popup/0.23.1440.839@0.23.1440.839" timestamp="1604889820450" />
+    <state x="865" y="240" key="refactoring.ChangeSignatureDialog" timestamp="1604892343131">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="865" y="240" key="refactoring.ChangeSignatureDialog/0.23.1440.839@0.23.1440.839" timestamp="1604892343131" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning$factorial_test.coverage" NAME="factorial_test Coverage Results" MODIFIED="1590863755919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modularity/packaging/module" />
+    <SUITE FILE_PATH="coverage/Learning$platform_module.coverage" NAME="platform_module Coverage Results" MODIFIED="1607394918069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1593748338110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/Learning$havel_hakimi.coverage" NAME="havel_hakimi Coverage Results" MODIFIED="1604893369765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/Learning$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1604893218442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/Learning$3_9.coverage" NAME="3.9 Coverage Results" MODIFIED="1607302204883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_features" />
     <SUITE FILE_PATH="coverage/Learning$exception.coverage" NAME="exception Coverage Results" MODIFIED="1591723133690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/Learning$filtering.coverage" NAME="filtering Coverage Results" MODIFIED="1607394692139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning$assignment.coverage" NAME="assignment Coverage Results" MODIFIED="1591723233187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics/operators" />
     <SUITE FILE_PATH="coverage/Learning$set_get_del.coverage" NAME="set_get_del Coverage Results" MODIFIED="1594096732432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/methods" />
+    <SUITE FILE_PATH="coverage/Learning$RSA.coverage" NAME="RSA Coverage Results" MODIFIED="1606971336062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
   </component>
 </project>
