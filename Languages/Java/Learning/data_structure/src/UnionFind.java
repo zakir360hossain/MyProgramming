@@ -31,7 +31,6 @@ class QuickFindUF {
     QuickFindUF(int N) {
         id = new int[N];
         for (int i = 0; i < N; i++) {
-            id[i] = i;
         }
     }
 
@@ -104,13 +103,13 @@ class QuickUnion{
  * Proposition: Depth of any node x is at most log2 N.
  **/
 
-class WeightedQuickUnion {
+class WeightedQuickUnionUF {
     private int id[]; // of size N. id[i] is parent of i
     //Root of i is id[id[id[...[i]...]]]
     private int size[];
 
 
-    public WeightedQuickUnion(int N) {
+    public WeightedQuickUnionUF(int N) {
         id = new int[N];
         size = new int[N];
         for (int i = 0; i<N; i++) id[i] = i;

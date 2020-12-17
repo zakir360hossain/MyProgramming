@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b611326-dd7e-4cfb-9064-cb1c87cc327c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/RSA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/havel_hakimi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_features/3.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platform_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tempoUse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filtering.py" beforeDir="false" afterPath="$PROJECT_DIR$/filtering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/Analysis of Algorithm.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/UnionFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,6 +232,7 @@
       <workItem from="1607302148130" duration="772000" />
       <workItem from="1607305220184" duration="297000" />
       <workItem from="1607394450901" duration="534000" />
+      <workItem from="1608168063644" duration="2000" />
     </task>
     <servers />
   </component>

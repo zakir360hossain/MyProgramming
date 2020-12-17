@@ -2,9 +2,14 @@ package generics;
 
 import java.util.ArrayList;
 
-/* Generic is the concept of treating types as parameter. An instance or a field can have an abstract
+/** Generic is the concept of treating types as parameter. An instance or a field can have an abstract
  data type (just a parameter) at the beginning and once a type is passed, it becomes the value of the parameter.
-*/
+
+ Generic type cannot be instantiated directly. This is for two reason:
+ 1. There is no guarantee that T has a no-args constructor (and for that matter isn't an interface or abstract class)
+ 2. Due to type erasure (required for backwards compatibility) the Type of T is known at compile time but not at run time,
+ so what to construct wouldn't be known.
+**/
 
 // Way to declare generic. T (could be any other name) is an identifier for type
 class Container<T> {
