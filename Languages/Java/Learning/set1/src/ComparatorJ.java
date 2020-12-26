@@ -1,52 +1,107 @@
-/*
-An interface used to fully customize the way how objects in a user_defined class are arranged.
- */
-
+import java.time.LocalDateTime;
 import java.util.*;
 
-// A user_defined class with name to use for Comparator.
-class ForCom implements Comparator<Integer>{
-
-    @Override
-    // Orders the values according to the last digit
-    public int compare(Integer o1, Integer o2) {
-        if (o1%10>o2%10){
-            return 1; // Means swap o1 and o2
-        }
-        return -1; // Does not swap them
-    }
-}
+/**
+ * Comparable:
+ * An interface containing compare(Key v, Key w)
+ * Compares the two objects in alternative order, such as in terms of date or last name
+ * Type can be specified via generics
+ * Many classes and interfaces in Java implements this interface
+ *
+ * @see <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html">Details of Comparator</a>
+ */
 
 public class ComparatorJ {
     public static void main(String[] args) {
-        Random rn = new Random();
+        Files[] files = new Files[5];
+        files[0] = new Files("Slides", 24);
+        files[1] = new Files("Recipes", 90);
+        files[2] = new Files("Notes", 23);
+        files[3] = new Files("Homeworks", 103);
+        files[4] = new Files("Photos", 899);
+        System.out.println("By Time");
+        Files.sortByDate(files);
+        Files.show(files);
+        System.out.println("By Name ");
+        Files.sortByName(files);
+        Files.show(files);
 
-        List<Integer> values = new ArrayList<>();
-        for (int i = 0; i<15; i++){
-            values.add(rn.nextInt((450-100)+1)+100);
+
+    }
+
+    public static boolean less(Comparator c, Object v, Object w) {
+        return c.compare(v, w) < 0;
+    }
+
+    public static <T> void exchange(T[] list, int i, int j) {
+        T temp = list[i];
+        list[i] = list[j];
+        list[j] = temp;
+    }
+
+    public static void selectionSort(Object[] list, Comparator comparator) {
+        int N = list.length;
+        ;
+        for (int i = 0; i < N; i++) {
+            int min = i;
+            for (int j = i + 1; j < N; j++) {
+                if (ComparatorJ.less(comparator, list[j], list[min])) min = j;
+            }
+            ComparableJ.exchange(list, i, min);
         }
+    }
+}
 
-        List<Integer> values2 = values;
+class Files {
+    private String name;
+    private final int timeCreatedInHour; // I could use LocalDateTime, but for simplicity
+    public static final Comparator<Files> BY_NAME = new ByName();
+    public static final Comparator<Files> BY_TIME = new ByTime();
 
-        // Using Comparator with name_defined user class
-        Comparator<Integer> com = new ForCom();
-        Collections.sort(values, com); // List.sort is best here, but for the sake of concept.
-        for (int v:values){
-            System.out.println(v);
-        }
+    public Files(String name, int timeCreatedInHour) {
+        this.name = name;
+        this.timeCreatedInHour = timeCreatedInHour;
+    }
 
-        // Using Comparator with anonymous inner class, lambda, and ternary operator in a single line
-        // Orders the elements according to the last two digits
-        // With Lambda, object type is not needed. Again, 1 means swap, -1 means no swap.
-        Comparator<Integer> com2 = (o1, o2) -> o1%100>o2%100?1:-1;
-        Collections.sort(values2, com2);
-        System.out.println("With Anonymous, Lambda, etc.");
-        for (int v2:values2){
-            System.out.println(v2);
+    private static class ByName implements Comparator<Files> {
+        public int compare(Files v, Files w) {
+            return v.name.compareTo(w.name);
         }
     }
 
-}
+    private static class ByTime implements Comparator<Files> {
+        public int compare(Files v, Files w) {
+            return v.timeCreatedInHour - w.timeCreatedInHour;
+        }
+    }
 
+    public static void sortByName(Files[] files) {
+        //lets sort the files by the Name
+        ComparatorJ.selectionSort(files, Files.BY_NAME);
+    }
+
+    public static void sortByDate(Files[] files) {
+        //lets sort the files by the date
+        ComparatorJ.selectionSort(files, Files.BY_TIME);
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public static void show(Files[] files) {
+        for (Files s : files) {
+            System.out.println(s.toString());
+        }
+    }
+
+    @Override
+    public String toString() {
+        return "Files{" +
+                "name='" + name + '\'' +
+                ", timeCreatedInHour=" + timeCreatedInHour +
+                '}';
+    }
+}
 
 

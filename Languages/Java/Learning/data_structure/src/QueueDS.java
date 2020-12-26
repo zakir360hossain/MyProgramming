@@ -16,12 +16,12 @@ public class QueueDS {
 }
 
 //Linked-list implementation
-class LinkedQueueOfStrings {
+class LinkedQueueOfStrings<T> {
     private Node first, last;
     private int size = 0;
 
     private class Node {
-        String item;
+        T item;
         Node next;
     }
 
@@ -29,7 +29,7 @@ class LinkedQueueOfStrings {
         return first == null;
     }
 
-    public void enqueue(String item) {
+    public void enqueue(T item) {
         if (item != null) {
             Node oldlast = last;
             last = new Node();
@@ -43,8 +43,8 @@ class LinkedQueueOfStrings {
             System.out.println("Empty field is not allowed!");
         }
     }
-    public String dequeue() {
-        String item = first.item;
+    public T dequeue() {
+        T item = first.item;
         first = first.next;
         //special case ofr empty queue
         if (isEmpty()) last = null;
@@ -62,12 +62,12 @@ class LinkedQueueOfStrings {
 }
 
 //Resizing array implementation
-class ResizedCapacityQueueOfStrings{
-    private String[] items;
+class ResizedCapacityQueueOfItems <T>{
+    private T[] items;
     private int N = 0;
 
-    public ResizedCapacityQueueOfStrings() {
-        items = new String[1];
+    public ResizedCapacityQueueOfItems() {
+        { items = (T[]) new Object[1];}
     }
 
     public boolean isEmpty() {
@@ -75,7 +75,7 @@ class ResizedCapacityQueueOfStrings{
     }
 
 
-    public void enqueue(String item) {
+    public void enqueue(T item) {
         int tail = items.length;
         if (item != null) {
             // doubling the size of items[] when it's full
@@ -86,18 +86,19 @@ class ResizedCapacityQueueOfStrings{
         }
     }
 
-    public String dequeue() {
-        String item = items[0];
+    public T dequeue() {
+        T item = items[0];
         items[N]=null;
         //halving the size of items[] when it's one-quarter full
         if(N>0 && N==items.length/4) resize(items.length/2);
         return item;
     }
     public void resize(int capacity) {
-        String[] copy = new String[capacity];
+        T[] copy = (T[]) new Object[capacity];
         for (int i = 0; 1<N; i++){
             copy[i] = items[i];
             items = copy;
         }
     }
+
 }

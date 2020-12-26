@@ -9,6 +9,10 @@ import java.util.ArrayList;
  1. There is no guarantee that T has a no-args constructor (and for that matter isn't an interface or abstract class)
  2. Due to type erasure (required for backwards compatibility) the Type of T is known at compile time but not at run time,
  so what to construct wouldn't be known.
+
+ Autoboxing in Generics:
+    Each primitive type has a wrapper object type. Ex: Integer is wrapper type for int
+    autoboxing: automatically cast between a primitive type and its wrapper
 **/
 
 // Way to declare generic. T (could be any other name) is an identifier for type
@@ -74,8 +78,10 @@ public class Definition {
         Container<Integer> B = new Container<>();
         B.setValue(101); // No other type then Integer.
         B.show();
+        int b = B.getValue();
+        //Autoboxing (int is working even though B is Integer) syntactic sugar: int b = B.getValue().intValue()
 
-        //Now, C can be any time under Number
+        //Now, C can be any type under Number
         Container<Number> C = new Container<>();
         C.setValue(23.34);
         C.setValue(34.56f);

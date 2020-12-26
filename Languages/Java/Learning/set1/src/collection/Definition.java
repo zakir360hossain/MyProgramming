@@ -1,6 +1,6 @@
 package collection;
 
-/* collection is a topic
+/** collection is a topic
  Collection is an Interface/framework
  collections is a class
 

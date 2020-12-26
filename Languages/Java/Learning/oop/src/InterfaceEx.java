@@ -11,6 +11,7 @@ Interface works as an independent plate from which every class can access conten
 -A class can implements multiple interfaces
 -Since an interface is not a class, it will need a class that implements it to instantiate objects.
 
+There are many interfaces in Java libraries, avoid using unless the API is well understood
  */
 public interface InterfaceEx {
     int NUMBER = 5; //this field is by default a final constant.

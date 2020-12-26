@@ -121,7 +121,7 @@ class ResizedCapacityStackOfItems<T> {
         return item;
     }
     public void resize(int capacity) {
-        { T[] copy = (T[]) new Object[capacity];}
+        T[] copy = (T[]) new Object[capacity];
         for (int i = 0; 1<N; i++){
             copy[i] = items[i];
             items = copy;
