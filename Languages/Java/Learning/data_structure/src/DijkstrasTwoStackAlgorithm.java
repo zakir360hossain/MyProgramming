@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Stack;
 
 
 /**
@@ -13,8 +12,8 @@ import java.util.Stack;
  */
 public class DijkstrasTwoStackAlgorithm {
     public static void main(String[] args) {
-        LinkedStackOfItems<String> operatorStack = new LinkedStackOfItems<>();
-        LinkedStackOfItems<Double> valueStack = new LinkedStackOfItems<>();
+        LinkedStack<String> operatorStack = new LinkedStack<>();
+        LinkedStack<Double> valueStack = new LinkedStack<>();
 
         Scanner scanner = new Scanner(System.in);
 
@@ -23,8 +22,8 @@ public class DijkstrasTwoStackAlgorithm {
         System.out.println(evaluateExpression(tokens, operatorStack, valueStack));
     }
 
-    public static double  evaluateExpression(String[] tokens, LinkedStackOfItems<String> operatorStack,
-                                     LinkedStackOfItems<Double> valueStack){
+    public static double  evaluateExpression(String[] tokens, LinkedStack<String> operatorStack,
+                                     LinkedStack<Double> valueStack){
        for (String token : tokens) {
            switch (token) {
                case "(":

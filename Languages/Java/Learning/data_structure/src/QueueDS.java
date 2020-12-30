@@ -6,7 +6,7 @@
 public class QueueDS {
 
     public static void main(String[] args) {
-        LinkedQueueOfStrings names = new LinkedQueueOfStrings();
+        LinkedQueue names = new LinkedQueue();
         System.out.println(names.size());
         names.enqueue("Henry");
         System.out.println(names.size());
@@ -16,7 +16,7 @@ public class QueueDS {
 }
 
 //Linked-list implementation
-class LinkedQueueOfStrings<T> {
+class LinkedQueue<T> {
     private Node first, last;
     private int size = 0;
 
@@ -62,11 +62,11 @@ class LinkedQueueOfStrings<T> {
 }
 
 //Resizing array implementation
-class ResizedCapacityQueueOfItems <T>{
+class ResizedCapQueue<T>{
     private T[] items;
     private int N = 0;
 
-    public ResizedCapacityQueueOfItems() {
+    public ResizedCapQueue() {
         { items = (T[]) new Object[1];}
     }
 

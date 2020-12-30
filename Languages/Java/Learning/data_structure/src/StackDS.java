@@ -6,7 +6,7 @@
 public class StackDS {
 
     public static void main(String[] args) {
-        LinkedStackOfItems<String> names = new LinkedStackOfItems<>();
+        LinkedStack<String> names = new LinkedStack<>();
         System.out.println(names.size());
         names.push("Henry");
         System.out.println(names.size());
@@ -16,7 +16,7 @@ public class StackDS {
 }
 
 //Linked-list implementation
-class LinkedStackOfItems<T> {
+class LinkedStack<T> {
     private Node first = null;
     private int size = 0;
 
@@ -58,11 +58,11 @@ class LinkedStackOfItems<T> {
 
 /**Array implementation: fixed capacity-> asking for capacity to user (this is not modular); no more an API
  **/
-class FixedCapacityStackOfItems<T> {
+class FixedCapStack<T> {
     private T[] items;
     private int N = 0;
 
-    public FixedCapacityStackOfItems(int capacity) {
+    public FixedCapStack(int capacity) {
         { items = (T[]) new Object[capacity];}
     } //asking for size to client is not fine.
 
@@ -90,11 +90,11 @@ Method: if array is full, create a new array twice the size and copy the items
  This is an efficient implementation cost wise
  **/
 
-class ResizedCapacityStackOfItems<T> {
+class ResizedCapStack<T> {
     private T[] items;
     private int N = 0;
 
-    public ResizedCapacityStackOfItems() {
+    public ResizedCapStack() {
         {items = (T[]) new Object[1];}
     }
 
