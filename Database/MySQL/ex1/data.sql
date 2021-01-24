@@ -2,7 +2,7 @@ create table roles
 (
 r_id tinyint not null identity primary key,
 r_name varchar(30) not null
-)
+);
 
 create table users
 (

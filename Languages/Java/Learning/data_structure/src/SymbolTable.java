@@ -264,6 +264,37 @@ class TwoThreeSearchTree<Key extends Comparable<Key>, Value>{
     private static final boolean RED = true;
     private static final boolean BLACK = false;
 
+    public boolean isRed(Node x){ return x.right.color==RED;}
+
+    private Node rotateLeft(Node h){
+        assert isRed(h.right);
+        Node x = h.right;
+        h.right = x.left;
+        x.left = h;
+        x.color = h.color;
+        h.color = RED;
+        return x;
+    }
+
+    private Node rotateRight(Node h){
+        assert isRed(h.left);
+        Node x = h.left;
+        h.left = x.right;
+        x.right = h;
+        x.color = h.color;
+        h.color = RED;
+        return x;
+    }
+
+    private void flipColor(Node h){
+        assert !isRed(h);
+        assert !isRed(h.left);
+        assert isRed(h.right);
+        h.color = RED;
+        h.left.color = BLACK;
+        h.right.color = BLACK;
+    }
+
     private class Node{
         Key key;
         Value value;
@@ -278,5 +309,12 @@ class TwoThreeSearchTree<Key extends Comparable<Key>, Value>{
             this.color = color;
         }
     }
+
+}
+
+/**
+ * Generalizing 2-3 trees by allowing up to M-1 key-link pairs per node.
+ */
+class B_Tree{
 
 }

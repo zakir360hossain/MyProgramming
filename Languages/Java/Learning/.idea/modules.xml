@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/csp/csp.iml" filepath="$PROJECT_DIR$/csp/csp.iml" />
       <module fileurl="file://$PROJECT_DIR$/data_structure/data_structure.iml" filepath="$PROJECT_DIR$/data_structure/data_structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_questions/practice_questions.iml" filepath="$PROJECT_DIR$/practice_questions/practice_questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/set1/set1.iml" filepath="$PROJECT_DIR$/set1/set1.iml" />
       <module fileurl="file://$PROJECT_DIR$/set2/set2.iml" filepath="$PROJECT_DIR$/set2/set2.iml" />
     </modules>

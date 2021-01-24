@@ -20,9 +20,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b611326-dd7e-4cfb-9064-cb1c87cc327c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/Analysis of Algorithm.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/GeomAppOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/HashTableDS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/practice_questions/practice_questions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/practice_questions/src/MaxOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/practice_questions/src/MaxTickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/.idea/Beginner course.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/BETWEEN.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/Boolean.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/COPY_TABLE.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/CROSS JOIN.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/DATA INSERTION.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/DELETE_ROW.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/IN.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/ISNULL.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/JOIN.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/LEFT_RIGHT JOIN.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/LIKE.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/LIMIT.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/Multiple_databases.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/NATURAL JOIN.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/ORDER_BY.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/REGEXP.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/SELECT.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/UNION.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/UPDATE_ROW.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/USING.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/WHERE.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/databases.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/Beginner course/load.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/ex1/Wage.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Database/MySQL/ex1/Wage.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/MySQL/ex1/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Database/MySQL/ex1/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/data_structure/data_structure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/data_structure/data_structure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/PriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/PriorityQueueDS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/SymbolTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/data_structure/src/SymbolTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b/a.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,6 +273,8 @@
       <workItem from="1607305220184" duration="297000" />
       <workItem from="1607394450901" duration="534000" />
       <workItem from="1608168063644" duration="2000" />
+      <workItem from="1610653096881" duration="496000" />
+      <workItem from="1611459903055" duration="361000" />
     </task>
     <servers />
   </component>
@@ -255,6 +297,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="329" y="88" key="#Plugins" timestamp="1611460090212">
+      <screen x="0" y="25" width="1440" height="836" />
+    </state>
+    <state x="329" y="88" key="#Plugins/0.25.1440.836@0.25.1440.836" timestamp="1611460090212" />
     <state x="507" y="202" key="FileChooserDialogImpl" timestamp="1607394566811">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
@@ -297,6 +343,10 @@
       <screen x="0" y="23" width="1440" height="839" />
     </state>
     <state x="865" y="240" key="refactoring.ChangeSignatureDialog/0.23.1440.839@0.23.1440.839" timestamp="1604892343131" />
+    <state x="394" y="185" width="670" height="676" key="search.everywhere.popup" timestamp="1611459929910">
+      <screen x="0" y="25" width="1440" height="836" />
+    </state>
+    <state x="394" y="185" width="670" height="676" key="search.everywhere.popup/0.25.1440.836@0.25.1440.836" timestamp="1611459929910" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning$factorial_test.coverage" NAME="factorial_test Coverage Results" MODIFIED="1590863755919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modularity/packaging/module" />
