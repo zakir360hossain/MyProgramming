@@ -1,25 +1,16 @@
 #include <stdio.h>
-#include<stdlib.h>
 
-//Local files inclusions
-#include "functions.h"
-#include "types_and_format_specifiers.h";
+#include "variablesAndSpecifers.h"
+#include "loops.h"
 
 int main() {
     printf("Hello, World!\n");
 
-    // data types and format specifiers
-    types_and_specifiers();
+    variablesAndSpecifiers();
 
-    //Reading inputs
-    int age;
-    double gpa;
-    printf("\nEnter your age: ");
-    scanf("%d, ", &age);
-    printf("Enter your GPA: ");
-    scanf("%lf ", &gpa);
-    printf("\nYour age is %d and your GPA is %f ", age, gpa);
-
-    printf("\n%d", max(3, 4, 5));
+    int a[] = {1, 3, 4, 5};
+    printf("\n%d", sizeInt(a));
+    int max = maxIndex(a, sizeInt(a));
+    printf("\n%d", max);
     return 0;       
 }
