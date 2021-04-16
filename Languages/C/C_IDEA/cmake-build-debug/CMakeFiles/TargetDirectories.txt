@@ -1,0 +1,3 @@
+/Users/zakirhossain/Documents/TechStuff/MyProgramming/Languages/C/C_IDEA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zakirhossain/Documents/TechStuff/MyProgramming/Languages/C/C_IDEA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zakirhossain/Documents/TechStuff/MyProgramming/Languages/C/C_IDEA/cmake-build-debug/CMakeFiles/C_IDEA.dir

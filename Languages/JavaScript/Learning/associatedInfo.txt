@@ -1,0 +1,13 @@
+
+
+
+
+
+Transpilers:
+    converts modern syntax constructs and operators to older style to avoid failures
+    Babel is a modern transpilers
+
+Polyfillers:
+    re-implement modern functions to equivalent older functions to avoid failures
+    available: polyfill.io 
+

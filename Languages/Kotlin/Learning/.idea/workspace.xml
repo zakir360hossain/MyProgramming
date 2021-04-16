@@ -1,39 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutomaticModuleUnloader">
-    <loaded-modules>
-      <module name="Learning" />
-    </loaded-modules>
-  </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ef8ff5e-2fa1-47e9-a562-824219cffb61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/src/Data_Class.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/src/Inheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/src/Interfaces.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/src/Object_Keyword.kt" afterDir="false" />
+    <list default="true" id="8f6951d4-27cd-4501-870c-51cb66278b28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/oop/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/practice/src/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Learning/src/JarFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Syntax.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concepts/types/BasicTypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concepts/types/BitwiseOperations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concepts/types/Conversions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Analysis of Algorithm.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Bags_Stacks_Queues.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Balance Search Tree.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Binary Search Tree.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Directed Graphs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Elementary Sorts.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Elementary Symbol Table.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Geometric Applications of BST.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Hash Table.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Mergesort.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Minimum Spanning Trees.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/PriorityQueue.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Symbol Table Applications.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Undirected Graphs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Data Structure Document/Union_Find.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/.idea/LearningC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/LearningC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/LearningC.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/functions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/loops.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/size.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C/LearningC/variablesAndSpecifers.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/practice_questions/practice_questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/practice/practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/practice_questions/src/MaxOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/practice/src/MaxOccurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Learning/practice_questions/src/MaxTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Learning/practice/src/MaxTickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/Learning/set1/callback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/src/MessageCard.kt" beforeDir="false" afterPath="$PROJECT_DIR$/oop/src/Constructors.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop/META-INF/oop.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop/META-INF/oop.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop/MessageCardClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop/MessageCardKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/oop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/Constructors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/concepts/oop/Constructors.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/Data_Class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/concepts/oop/Data_Class.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/Inheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/concepts/oop/Inheritance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/Interfaces.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/concepts/oop/Interfaces.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/src/Object_Keyword.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/concepts/oop/Object_Keyword.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/ArraysKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/ArraysKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/BasicsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/CollectionsKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/CollectionsKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/Extension_FunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/HelloToMeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/HelloToMeKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/META-INF/Learning.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/META-INF/Learning.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/Returns_JumpsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/SomeFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/Try_CatchKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Try_CatchKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/decompilingKotlins.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/A1$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/A1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/A2$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/A2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/C1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/ConstructorsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/Data_ClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/InheritanceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/InterfacesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/META-INF/oop.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/Machines.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/MessageCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop/Object_KeywordKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Arrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/When.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/stdlib/CollectionsKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Extension_Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Extension_Function.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloToMe.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/HelloToMe.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Returns_Jumps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/LabelsAndJumps.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Try_Catch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Try_Catch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decompilingKotlins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../basicCmds" beforeDir="false" afterPath="$PROJECT_DIR$/../../../basicCmds" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +134,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
@@ -55,95 +142,104 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xnlirnzl" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1g4cLnFKzyFeBoc9qmlzTZjyQol" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1qPSBvggzaj2eBybicv81DUf3M6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="Console" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Kotlin.Object_KeywordKt">
-    <configuration name="Data_ClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="oop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Data_ClassKt" />
-      <option name="WORKING_DIRECTORY" />
+  <component name="RunManager" selected="Application.BasicTypesKt">
+    <configuration name="decompilingKotlins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.decompilingKotlins" />
+      <module name="Learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="oop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="InheritanceKt" />
-      <option name="WORKING_DIRECTORY" />
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="oop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="InterfacesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Object_KeywordKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="oop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Object_KeywordKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Returns_JumpsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicTypesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Learning" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Returns_JumpsKt" />
+      <option name="MAIN_CLASS_NAME" value="concepts.types.BasicTypesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Object_KeywordKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="concepts.oop.Object_KeywordKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SyntaxKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="basics.SyntaxKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Learning" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="WhenKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,37 +247,29 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Object_KeywordKt" />
-        <item itemvalue="Kotlin.Data_ClassKt" />
-        <item itemvalue="Kotlin.InterfacesKt" />
-        <item itemvalue="Kotlin.InheritanceKt" />
-        <item itemvalue="Kotlin.Returns_JumpsKt" />
+        <item itemvalue="Application.BasicTypesKt" />
+        <item itemvalue="Application.decompilingKotlins" />
+        <item itemvalue="Application.SyntaxKt" />
+        <item itemvalue="Application.WhenKt" />
+        <item itemvalue="Application.Object_KeywordKt" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ef8ff5e-2fa1-47e9-a562-824219cffb61" name="Default Changelist" comment="" />
-      <created>1597377251945</created>
+      <changelist id="8f6951d4-27cd-4501-870c-51cb66278b28" name="Default Changelist" comment="" />
+      <created>1616979599499</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597377251945</updated>
-      <workItem from="1597377253505" duration="3908000" />
-      <workItem from="1597442739595" duration="3891000" />
-      <workItem from="1597458498260" duration="5668000" />
-      <workItem from="1597464273288" duration="1034000" />
-      <workItem from="1597618202061" duration="1347000" />
-      <workItem from="1597721196665" duration="89000" />
-      <workItem from="1597721302687" duration="263000" />
-      <workItem from="1598234080639" duration="4525000" />
+      <updated>1616979599499</updated>
+      <workItem from="1616979600701" duration="3340000" />
+      <workItem from="1616983730728" duration="4031000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -194,51 +282,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1598236710836">
-      <screen x="0" y="23" width="1440" height="838" />
-    </state>
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1597378476929" />
-    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.838@0.23.1440.838" timestamp="1598236710836" />
-    <state width="1398" height="176" key="GridCell.Tab.0.bottom" timestamp="1598238630446">
-      <screen x="0" y="23" width="1440" height="838" />
-    </state>
-    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597464252284" />
-    <state width="1398" height="176" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1598238630446" />
-    <state width="1398" height="176" key="GridCell.Tab.0.center" timestamp="1598238630446">
-      <screen x="0" y="23" width="1440" height="838" />
-    </state>
-    <state width="1398" height="200" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597464252283" />
-    <state width="1398" height="176" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1598238630446" />
-    <state width="1398" height="176" key="GridCell.Tab.0.left" timestamp="1598238630446">
-      <screen x="0" y="23" width="1440" height="838" />
-    </state>
-    <state width="1398" height="200" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597464252282" />
-    <state width="1398" height="176" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1598238630446" />
-    <state width="1398" height="176" key="GridCell.Tab.0.right" timestamp="1598238630446">
-      <screen x="0" y="23" width="1440" height="838" />
-    </state>
-    <state width="1398" height="200" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597464252283" />
-    <state width="1398" height="176" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1598238630446" />
-    <state x="332" y="0" width="900" height="722" key="SettingsEditor" timestamp="1597460396878">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="332" y="0" width="900" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1597460396878" />
-    <state x="465" y="293" key="cloudConfig.PluginsDialog" timestamp="1597721281785">
-      <screen x="0" y="23" width="1440" height="838" />
-    </state>
-    <state x="465" y="293" key="cloudConfig.PluginsDialog/0.23.1440.838@0.23.1440.838" timestamp="1597721281785" />
-    <state x="591" y="293" key="cloudConfig.SelfSettingsDialog" timestamp="1597721269628">
-      <screen x="0" y="23" width="1440" height="838" />
-    </state>
-    <state x="591" y="293" key="cloudConfig.SelfSettingsDialog/0.23.1440.838@0.23.1440.838" timestamp="1597721269628" />
-    <state x="88" y="53" key="new project wizard" timestamp="1597462238809">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="88" y="53" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1597462238809" />
   </component>
 </project>

@@ -1,6 +1,7 @@
 Chaning shell
 chsh -s /bin/bash
-chsh -s /usr/local/bin/bash
+chsh -s /usr/local/bin/fish
+chsh -s /bin/zsh
 
 Accessing cs network computer @ Swath
 Ssh zhossai2@cs.swarthmore.edu

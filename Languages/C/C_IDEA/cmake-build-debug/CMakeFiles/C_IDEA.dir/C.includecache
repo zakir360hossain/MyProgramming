@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zakirhossain/Documents/TechStuff/MyProgramming/Languages/C/C_IDEA/main.c
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+sys/time.h
+-
+time.h
+-
+string.h
+-
+pthread.h
+-
+
