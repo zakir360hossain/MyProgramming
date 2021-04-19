@@ -1,0 +1,35 @@
+= parse_cmd library lab
+
+== Files
+
+* `parsecmd.c`: file into which you will add your implementation of
+   the two parsecmd library functions
+
+* `parsecmd.h`:  the interface to the parsecmd library (its function 
+   prototypes and constant definitions).  You should not change this
+   file
+
+* `tester.c`: a test program for testing your parsecmd library implemenation
+   ** this file needs only minimal modifications to test the second 
+      function (see the `TODO` comments).
+
+* `design_worksheet`: contains some questions you should answer (in this file)
+   before start coding each function.  This is to help you with the design 
+   of each functions.
+
+== building and running
+
+* make: build the tester program that tests your parsecmd library
+        implementation
+
+  ** compiles parsecmd.o library from parsecmd.c 
+  ** compiles tester from tester.c and linking in parsecmd.o
+
+* make clean: clean up compiled files (parsecmd.o and tester)
+
+To run:
+[source,sh]
+----
+./tester
+----
+then just enter command lines to parse with your parsecmd library functions.

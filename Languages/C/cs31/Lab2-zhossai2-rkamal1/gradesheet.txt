@@ -1,0 +1,34 @@
+
+
+Lab2 : C Arrays and Sorting
+
+Repo zhossai2-rkamal1
+
+>>  file input comments
+ 
+
+>>  printing comments
+ 
+
+>>  sorting comments
+ 
+
+>>  user input error detection
+ 
+
+-------------------------
+Correctness (9pts) 9
+
+>>  program style comments
+ Missing top-level comment and make sure to remove all your TODOs
+before submitting.
+
+-------------------------
+Program style (1pts) 0
+
+-------------------------
+Total (10pts) 9
+
+>> misc & general comments
+ Nice work!
+

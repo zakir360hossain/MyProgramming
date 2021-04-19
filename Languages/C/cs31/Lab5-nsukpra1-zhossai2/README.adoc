@@ -1,0 +1,10 @@
+= Starting point code for GOL lab
+
+== Test Files
+
+ * `test_oscillator.txt`:  this is a test file given to you with starting point
+ * `test_bigger.txt test_edges.txt test_corners.txt`:  empty test files
+ for you to fill in to test correctness in different ways.  Creating these
+ is a required part of the lab assignment.
+
+We strongly encourage you to create other test files for testing correctness. Look at link:https://en.wikipedia.org/wiki/Conway's_Game_of_Life[Conway's Game of Life] for some example patterns to try, or just try your own and see what happens.

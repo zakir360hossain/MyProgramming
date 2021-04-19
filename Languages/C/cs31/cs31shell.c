@@ -1,62 +1,3 @@
-#include <string.h>
-#include <stdlib.h>
-#include <stdio.h>
-#include <unistd.h>
-#include <sys/time.h>
-#include <time.h>
-#include <pthread.h>
-
-// void systemClear(){
-// 	// System clear
-// 	for(int i = 1; i<100; i++){
-//     	system("clear");
-//     	printf("%d : %d\n", i, i*i);
-//     	printf("%d : %d\n", i, i*i);
-//     	printf("%d : %d", i, i*i);
-//     	usleep(100000);
-//     }
-// }
-
-
-// int main(){
-
-//     // systemClear();
-
-// 	//Random integer of 0 or 1
-// 	// int a;
-// 	// for (size_t i = 0; i < 10; i++)
-// 	// {
-// 	// 	a = (int)(((double)rand() / (double)RAND_MAX)*2);
-// 	// 	printf("%d\n", a);
-// 	// }
-
-// 	// int* matrix = malloc(sizeof(int) *10 *100);
-
-// 	// for (size_t i = 0; i < 10; i++)
-// 	// {
-// 	// 	for (int j = 0; j<10; j++){
-// 	// 		printf("%d\n", matrix[i*10+j]);
-// 	// 	}
-// 	// }
-
-// 	// printf("%d\n", -1%10);
-
-//      //See if an element is null
-//    int arr[10];
-//    for (size_t i = 0; i < 10; i++)
-//    {
-//       if (arr[i] != NULL)
-//       {
-//          printf("It's not NULL\n");
-//       }
-      
-//    }
-   
-
-// 	return 0;
-// }
-
-
 /* Swarthmore College, CS 31
  * Copyright (c) 2019 Swarthmore College Computer Science Department,
  * Swarthmore PA, Professor Tia Newhall
@@ -105,6 +46,7 @@ static int history_size=0;
 void add_to_history_queue(char *cmd[MAXARGS]);
 void print_history_queue();
 void sigchld_handler(int sig);
+void sigint_handler(int sig);
 
 
 /******************************************************************/
@@ -120,6 +62,7 @@ int main( ){
   // TODO: add a call to signal to register your signal handler on 
   //       SIGCHLD here
   signal(SIGCHLD, sigchld_handler);
+  signal(SIGINT, sigint_handler);
 
   while(1) {
     // (1) print the shell prompt (in a cool color!)
@@ -195,10 +138,13 @@ int main( ){
    
 
         }
+
+    
       
     // (4) determine how to execute it, and then execute it
     //
-  }
+    
+  }    
   return 0;
 }
 
@@ -212,7 +158,7 @@ void add_to_history_queue(char *cmd[MAXARGS]) {
         history_next = (history_next+1)% MAXHIST;
 
 }
-/*****************************************/
+/************************0*****************/
 // print out the values in order that they
 // were added to the queue: first to last
 // print:  bucket_index_value: bucket_value
@@ -244,3 +190,11 @@ void sigchld_handler(int sig){
   	printf("signal %d from %d\n", sig, pid);
   }
 }
+
+void sigint_handler(int sig){
+	//pid_t pid = getpid();
+        printf("Bye Bye!");
+	exit(0);
+	//kill(pid, SIGKILL);
+}
+

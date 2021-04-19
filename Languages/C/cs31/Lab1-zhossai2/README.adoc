@@ -1,0 +1,29 @@
+This is the starting point for Lab 1, CS31 Spring 2021
+
+= To compile:
+
+NOTE:  there is one compiler warning with an unused variable.
+        you should always fix compiler warnings in your code
+        (_use_ this variable in your code to get rid of this one)
+
+----
+make
+----
+
+= To run:
+
+----
+./prog
+----
+
+= To clean-up compiler built code:
+
+----
+make clean
+----
+
+= To edit C source file:
+
+----
+vim prog.c
+----

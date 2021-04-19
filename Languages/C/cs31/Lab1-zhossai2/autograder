@@ -1,0 +1,117 @@
+  ########### Compile: 
+gcc -g -Wall -Wvla  -o prog prog.c   
+
+ ######### No repeat draw: 
+This program computes the average of a set of pseudo-randomly generated numbers within the range of 0 and some specified peak number my user. This program also draws a mountain like picture with * based On some specified size
+Enter the # of random number to be generatedNow, please enter the largest random number to be generatedThe average of 500 random values in the range [0,100] is 47.532001
+
+
+To draw the picture, please enter a size between 3 and 30
+Enter the value       *       
+      ***      
+     *****     
+    *******    
+   *********   
+  ***********  
+ ************* 
+***************
+
+Would you like to draw more picture? Enter 0 for no and 1 for yesHope you had fun drawing some 'Asterian' mountains! Good bye!
+ ######### repeat draw: 
+This program computes the average of a set of pseudo-randomly generated numbers within the range of 0 and some specified peak number my user. This program also draws a mountain like picture with * based On some specified size
+Enter the # of random number to be generatedNow, please enter the largest random number to be generatedThe average of 500 random values in the range [0,20] is 9.576000
+
+
+To draw the picture, please enter a size between 3 and 30
+Enter the value       *       
+      ***      
+     *****     
+    *******    
+   *********   
+  ***********  
+ ************* 
+***************
+
+Would you like to draw more picture? Enter 0 for no and 1 for yes
+
+To draw the picture, please enter a size between 3 and 30
+Enter the value                 *                 
+                ***                
+               *****               
+              *******              
+             *********             
+            ***********            
+           *************           
+          ***************          
+         *****************         
+        *******************        
+       *********************       
+      ***********************      
+     *************************     
+    ***************************    
+   *****************************   
+  *******************************  
+ ********************************* 
+***********************************
+
+Would you like to draw more picture? Enter 0 for no and 1 for yesHope you had fun drawing some 'Asterian' mountains! Good bye!
+ ######### error input handling: 
+This program computes the average of a set of pseudo-randomly generated numbers within the range of 0 and some specified peak number my user. This program also draws a mountain like picture with * based On some specified size
+Enter the # of random number to be generatedNow, please enter the largest random number to be generatedThe average of -4 random values in the range [0,250] is -0.000000
+
+
+To draw the picture, please enter a size between 3 and 30
+Enter the value-8 is not between 3 and 30, please enter again
+
+
+To draw the picture, please enter a size between 3 and 30
+Enter the value                        *                        
+                       ***                       
+                      *****                      
+                     *******                     
+                    *********                    
+                   ***********                   
+                  *************                  
+                 ***************                 
+                *****************                
+               *******************               
+              *********************              
+             ***********************             
+            *************************            
+           ***************************           
+          *****************************          
+         *******************************         
+        *********************************        
+       ***********************************       
+      *************************************      
+     ***************************************     
+    *****************************************    
+   *******************************************   
+  *********************************************  
+ *********************************************** 
+*************************************************
+
+Would you like to draw more picture? Enter 0 for no and 1 for yesTry again: -9 is not 0 or 1
+Would you like to draw more picture? Enter 0 for no and 1 for yesTry again: 2 is not 0 or 1
+Would you like to draw more picture? Enter 0 for no and 1 for yesTry again: 100 is not 0 or 1
+Would you like to draw more picture? Enter 0 for no and 1 for yesTry again: 4 is not 0 or 1
+Would you like to draw more picture? Enter 0 for no and 1 for yesTry again: -9 is not 0 or 1
+Would you like to draw more picture? Enter 0 for no and 1 for yesTry again: 89 is not 0 or 1
+Would you like to draw more picture? Enter 0 for no and 1 for yes
+
+To draw the picture, please enter a size between 3 and 30
+Enter the value            *            
+           ***           
+          *****          
+         *******         
+        *********        
+       ***********       
+      *************      
+     ***************     
+    *****************    
+   *******************   
+  *********************  
+ *********************** 
+*************************
+
+Would you like to draw more picture? Enter 0 for no and 1 for yesHope you had fun drawing some 'Asterian' mountains! Good bye!

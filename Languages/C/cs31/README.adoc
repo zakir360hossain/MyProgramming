@@ -1,0 +1,65 @@
+= shell lab
+
+== Files
+
+* `cs31shell.c`: file into which you will add your shell code
+
+* `parsecmd.h`:  the interface to the parsecmd library (its function 
+   prototypes and constant definitions).  You should not change this
+   file
+
+* `sleeper.c`: a simple program that sleeps.  It is useful for testing
+   your shell's run in the background functionality.
+
+== building and running
+
+* make: build 
+  ** the cs31shell program, linking in the parsecmd library
+  ** a sleeper program that you can use as an example for testing
+     run in the background functionality.
+
+
+* make clean: clean up compiled files 
+
+To run:
+
+[source,sh]
+----
+./cs31shell
+----
+then enter command for your shell program to run.  
+
+To run the sleeper program (you likely want to run this in the background
+in your shell to test some of your shell's functionality):
+[source,sh]
+----
+./sleeper &
+----
+
+Then if you run the `ps` command you should see the sleeper process'
+pid values:
+[source,sh]
+----
+./sleeper &
+./sleeper &
+./sleeper &
+ps
+----
+
+To see the process's parent pid values run:
+[source,sh]
+----
+ps -f
+----
+
+To see the process hierarchy run:
+[source,sh]
+----
+ps --forest
+----
+
+
+
+
+
+

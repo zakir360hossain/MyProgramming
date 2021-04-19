@@ -1,0 +1,52 @@
+gcc -g -Wall -Wvla -Werror -Wno-error=unused-variable -c readfile.c
+gcc -g -Wall -Wvla -Werror -Wno-error=unused-variable -o sorter sorter.c  readfile.o
+Output:
+
+Reading file named ../floats.txt
+The file contains 10 floating point numbers, ranging from 0.00 to 9.00
+The unsorted values are: 9.00 8.00 4.00 5.00 7.00 3.00 2.00 1.00 6.00 0.00 
+The sorted values are: 0.00 1.00 2.00 3.00 4.00 5.00 6.00 7.00 8.00 9.00 
+
+Expected Output:
+
+Reading file named floats.txt
+The file contains 10 floating point numbers, ranging from 0.00 to 9.00
+The unsorted values are: 9.00 8.00 4.00 5.00 7.00 3.00 2.00 1.00 6.00 0.00
+The sorted values are: 0.00 1.00 2.00 3.00 4.00 5.00 6.00 7.00 8.00 9.00
+
+
+Output:
+
+Reading file named ../floats2.txt
+The file contains 10 floating point numbers, ranging from 1.00 to 9.00
+The unsorted values are: 1.00 9.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 
+The sorted values are: 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 9.00 
+
+Expected Output:
+
+Reading file named floats2.txt
+The file contains 10 floating point numbers, ranging from 1.00 to 9.00
+The unsorted values are: 1.00 9.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+The sorted values are: 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 9.00
+
+
+Output:
+
+Reading file named ../floats3.txt
+The file contains 10 floating point numbers, ranging from -7.20 to 9.00
+The unsorted values are: 9.00 8.50 4.00 5.00 -7.20 3.00 -2.00 1.90 6.00 0.10 
+The sorted values are: -7.20 -2.00 0.10 1.90 3.00 4.00 5.00 6.00 8.50 9.00 
+
+Expected Output:
+
+Reading file named floats3.txt
+The file contains 10 floating point numbers, ranging from -7.20 to 9.00
+The unsorted values are: 9.00 8.50 4.00 5.00 -7.20 3.00 -2.00 1.90 6.00 0.10
+The sorted values are: -7.20 -2.00 0.10 1.90 3.00 4.00 5.00 6.00 8.50 9.00
+
+
+file_that_doesnt_exist
+
+ERROR: can't open file_that_doesnt_exist
+
+

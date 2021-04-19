@@ -1,0 +1,79 @@
+
+
+Lab1 : C Programming Basics
+
+Repo: zhossai2
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+compute_average includes: 
+  * result is about 1/2 way between [0,hi]
+  * uses accumulator pattern to compute sum of values 
+  * calls rand and read_int correctly
+  * uses % to get value in range
+  * perfoms float division 
+  * returns correct type
+
+>> your compute_average comments:
+ 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+get_in_range includes: 
+  * loop until enter value in range
+  * prints prompt
+  * calls read_int
+  * prints error msg if not
+  * returns correct value
+
+>>  your get_in_range comments:
+ 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+draw_picture includes: 
+  * uses doubly-nested for loops
+  * multiple inner loops to print space and star pattern each line
+  * works correctly for differnet size input value
+  * if doesn't draw correct picture, how close does it get:
+
+>>  your draw_picture comments: 
+ 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Main control flow & program output includes: 
+  * gets input correctly from user to pass to functions
+  * prints correct output 
+  * get_in_range used for 0, 1 draw again as well as for size value
+  * draws at least one time 
+  * allows user to choose to draw as many subsequent times as like
+
+>>  your main control flow & program output comments:
+ Need to check if the number of random values and largest value are
+positive, otherwise prompting the user to enter new inputs until they
+are valid. The get_in_range function could have been used for "draw
+again."
+
+-------------------------
+Correctness (9pts): 8.5
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Program style includes: 
+* top-level comment
+* complete function comments
+* no lines wrapped (>80 columns)
+* meaningful variable and function names
+* all local variables declared at top of function body before statements
+* follows style guide
+* good, readable program design
+
+>>  your program style comments:
+ Need to include your name and the date in the top-level comment -
+refer to style guide, also keep lines <= 80 characters
+
+-------------------------
+Program style (1pts): 0
+
+-------------------------
+Total (10pts): 8.5
+
+>> misc & general comments:
+ 
+

@@ -1,0 +1,13 @@
+
+== Compiling
+* make: compiles stats and prog executables
+* make clean: cleans-up all compiler created files
+
+== Code
+* stats.c: add your Part 1 solution in this file
+   ** `readfile.[c,h]`: library functions for reading from a file (use
+   in your solution (don't modify this code)
+* `sum.s`: implement your Part 2 solution in this file
+  ** `prog.c`: program that calls your Part 2 sum function 
+      (you don't need to modify this code)
+

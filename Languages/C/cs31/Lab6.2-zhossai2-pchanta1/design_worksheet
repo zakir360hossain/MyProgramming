@@ -1,0 +1,35 @@
+Directions: Complete this worksheet for a function before you start coding it.
+==========  (to print:  lpr design_worksheet)
+* It will help you plan out the design of each of your functions. 
+* You must bring this worksheet with you to a ninja session & office hours 
+TODO: (1) Fill out worksheet for parse_cmd() then implement & test it
+      (2) Fill out worksheet for parse_cmd_dynamic(), then implement & test it
+--------------------------------------
+(1) parse_cmd() design questions Q1-Q3
+--------------------------------------
+Reminders: A. Look at the LAB REQUIREMENTS and the parsecmd.h file for 
+              details on exactly what this function should do. 
+           B. This function should use the global variable cmdline_copy that 
+              is already declared in the .c file 
+Q1: What will this function do?  Write an outline of what it will need to do 
+    at a high level, and then refine and fill in details. 
+Q2: What logical chunks of functionality should be broken into helper
+    functions? Note what functions you will define, what they accept as 
+    parameters, and what their return values are.  
+Q3: What are the local variables this function needs (and what are their 
+    exact types) that this function needs to perform these steps? 
+
+----------------------------------
+(2)parse_cmd_dynamic()design questions Q1-Q3
+--------------------------------------
+Reminders: A. Look at the LAB REQUIREMENTS and the parsecmd.h file for 
+              details on exactly what this function should do. 
+           B. This function SHOULD NOT use the global variable cmdline_copy 
+
+Q1: What will this function do?  Write an outline of what it will need to do 
+    at a high level, and then refine and fill in details. 
+Q2: What logical chunks of functionality should be broken into helper
+    functions? Note what functions you will define, what they accept as 
+    parameters, and what their return values are.  
+Q3: What are the local variables this function needs (and what are their 
+    exact types) that this function needs to perform these steps? 
